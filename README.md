@@ -12,7 +12,7 @@ We are part of the [Open Science Special Interest Group](https://ossig.netlify.c
 
 ### What are we doing?
 
-We are organising, among other events, the Open Science Room at the [2021 meeting of the OHBM in Montreal, Canada](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=4024&activateFull=true).
+We are organising, among other events, the Open Science Room at the [online 2021 meeting of the OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=4024&activateFull=true).
 
 ### Get involved
 
