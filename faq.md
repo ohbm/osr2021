@@ -59,6 +59,7 @@ We have attempted to minimise clashes between our own content and that of the ma
 Before and during the meeting you can contact using one of the channels described [here](contact.md).
 
 <div id='help'></div><br>
+### Find help
 For general OSR support: <a href="mailto:ohbm.osr@gmail.com" _target="_blank">email us</a>
 
 For general, technical or open science-related text-based support: ask a question on our the Mattermost channel<a href="https://mattermost.brainhack.org/brainhack/channels/help_desk-general" _target="_blank"><code>help_desk-general</code></a>
