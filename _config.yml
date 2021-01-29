@@ -20,7 +20,6 @@ description: Open Science Room 2021
 
 # List of links in the navigation bar. Strings should match .md filenames
 navbar-links:
-  Join: "join"
   Program:
     - Schedule: "schedule"
     - Speakers: "speakers"
