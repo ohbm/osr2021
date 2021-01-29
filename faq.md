@@ -60,7 +60,9 @@ Before and during the meeting you can contact using one of the channels describe
 
 <div id='help'></div><br>
 For general OSR support: <a href="mailto:ohbm.osr@gmail.com" _target="_blank">email us</a>
+
 For general, technical or open science-related text-based support: ask a question on our the Mattermost channel<a href="https://mattermost.brainhack.org/brainhack/channels/help_desk-general" _target="_blank"><code>help_desk-general</code></a>
+
 For Code of conducts violations: please refer to the contacts in the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3912" _target="_blank">OHBM Code of Conduct</a>
 
 <div id='virtual'></div><br>
