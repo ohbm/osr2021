@@ -10,6 +10,7 @@ title: FAQ
 - [When will I know if I have been accepted to present in the OSR?](#when)
 - [What if my presentation clashes with my talk/poster in the main meeting?!](#clash)
 - [How do I contact the OSR?](#contact)
+- [Find help](#help)
 - [How will the virtual OSR differ from the in-person OSR?](#virtual)
 - [How will you handle time zone differences of attendees?](#time-zones)
 - [Why have talks been pre-recorded?](#prerecord)
@@ -57,7 +58,10 @@ We have attempted to minimise clashes between our own content and that of the ma
 ### How do I contact the OSR?
 Before and during the meeting you can contact using one of the channels described [here](contact.md).
 
-During the meeting you will be able to identify members of the OSR team at various locations on our virtual platforms. We will provide more details on how to connect with our team as soon as we can.
+<div id='help'></div><br>
+For general OSR support: <a href="mailto:ohbm.osr@gmail.com" _target="_blank">email us</a>
+For general, technical or open science-related text-based support: ask a question on our the Mattermost channel<a href="https://mattermost.brainhack.org/brainhack/channels/help_desk-general" _target="_blank"><code>help_desk-general</code></a>
+For Code of conducts violations: please refer to the contacts in the <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3912" _target="_blank">OHBM Code of Conduct</a>
 
 <div id='virtual'></div><br>
 ### How will the virtual OSR differ from the in-person OSR?
