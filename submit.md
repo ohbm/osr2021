@@ -3,8 +3,6 @@ layout: page
 title: Submit
 ---
 
-- [Recording talks](#recording)
-- [Live discussions](#live)
 - [Open review](#review)
 - [Community feedback](#feedback)
 - [Submission](#tripetto)
@@ -13,17 +11,6 @@ title: Submit
 
 <div id="recording"></div>
 <br>
-## Recorded talks
-
-All lightning, demo and keynote talks have been pre-recorded to minimise technical difficulties during speaker changes. They will be broadcast according to a [schedule](schedule.html) designed to maximise global access, with each session broadcast three times per day.
-
-*We are no longer accepting submissions for Lighting, Demo or Keynote talks.*
-
-<div id="live"></div>
-<br>
-## Live discussions
-
-**Emergent sessions and OS-SIG Ceremonies will be held live** to maximise audience engagement. Emergent sessions can be initiated by anyone registered for the OSR (as a OHBM registrant or a zero-cost registrant), by completing the form below. When registering for the OSR by either route, you will be asked to provide your consent for emergent session to be recorded and preserved for later viewing. Please let us know if there is a particular reason why your emergent session should not be recorded.
 
 ## Open review
 
