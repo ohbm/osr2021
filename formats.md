@@ -10,9 +10,6 @@ Work will be presented in the OSR in one of the following formats:
 <img align="center" src="../img/formats_wo_social_horiz.png" alt="formats">
 
 
-
-[Theme](themes.md) specific talks will be presented in [keynote](#keynote), [lightning](#lightning) or [demo](#demo) sessions.
-
 Educational talks will be pre-recorded and broadcast according to our schedule. Speakers will be available for Q&A immediately following the broadcast of their talks in at least two timezone hubs. You can also leave questions on pre-specified Mattermost channels and speakers will be encouraged to get back to you.
 
 Facilitated discussions will be live and feature a host that will moderate a predetermined topic of discussion among a panel of invited speakers. Questions from the audience are encouraged (via chat feature) and will be transmitted to the panel by the host throughout the session.
