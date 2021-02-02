@@ -28,9 +28,9 @@ The 2021 OSR will be open for virtual attendance only. This presents an opportun
 <br>
 ## Sensory needs
 
-We have communicated best practice in designing designing accessible presentations with all our speakers. This includes dyslexia-friendly fonts, colours and formatting. We have also asked our speakers to make efforts to describe all slide content, so their talks can be followed in an audio only format if that is their preference.
+We have communicated best practices in designing accessible presentations with all our speakers. This includes dyslexia-friendly fonts, colours and formatting. We have also asked our speakers to make efforts to describe all slide content, so their talks can be followed in an audio only format.
 
-For individuals requiring hearing support or who speak English as a second language, we are working hard to provide captions for our live and prerecorded material. This may unfortunately not be possible in all cases.  
+For individuals requiring hearing support or who speak English as a second language, we are working hard to provide captions for our live and prerecorded material. This may unfortunately not be possible in all cases.
 
 <div id="zero-cost"></div>
 <br>
