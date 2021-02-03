@@ -7,7 +7,7 @@ title: Talk formats
 
 Work will be presented in the OSR in one of the following formats:
 
-<img align="center" src="../img/formats_wo_social_horiz.png" alt="formats">
+<img align="center" src="../img/osr_themes.001.png" alt="formats">
 
 
 Educational talks will be pre-recorded and broadcast according to our schedule. Speakers will be available for Q&A immediately following the broadcast of their talks in at least two timezone hubs. You can also leave questions on pre-specified Mattermost channels and speakers will be encouraged to get back to you.
