@@ -22,17 +22,15 @@ All interactions relating to the OSR should be conducted in accordance with the 
 <br>
 ## Virtual attendance
 
-This year the OHMB and OSR will be open for virtual attendance only. We are excited about this opportunity to bring the OSR to all members of the community.
-
-Before the global COVID-19 pandemic we arranged for a live broadcast of OSR talks to be openly available to the whole community, with tools for speaker engagement and feedback. The move to restructure the entire OHBM meeting to an online only conference has pushed the central organising team and the OS-SIG into making some significant financial and logistical decisions which will greatly improve the opportunities for engagement for those members of our community who are unable to travel to the annual meeting this year or in the future. We dearly hope this meeting will set a precedent for creating high quality and engaging online material, and set the bar for what is possible going forwards. We recognise that this move has been motivated by the changing needs of individuals who have not previously been excluded. We would also like to acknowledge that others may have called for such changes in the past, but had their requests returned as impossible or impractical to achieve. The virtual meeting this year will demonstrate that this is not the case, and indeed we can serve all members of our community whether they are physically present at the meeting or not. The meeting this year will showcase why [accessible design benefits everyone, not just those with access needs](https://blog.ai-media.tv/blog/why-designing-for-accessibility-helps-everyone).
+The 2021 OSR will be open for virtual attendance only. This presents an opportunity to engage with groups that are often underrepresented or excluded,  such as researchers from low and middle income countries, those with caretaker responsibilities, early career researchers, scientists with disabilities, and those with limited or no institutional and/or financial support.
 
 <div id="sensory"></div>
 <br>
 ## Sensory needs
 
-We have communicated best practice in designing designing accessible presentations with all our speakers. This includes dyslexia-friendly fonts, colours and formatting. We have also asked our speakers to make efforts to describe all slide content, so their talks can be followed in an audio only format if that is their preference.
+We have communicated best practices in designing accessible presentations with all our speakers. This includes dyslexia-friendly fonts, colours and formatting. We have also asked our speakers to make efforts to describe all slide content, so their talks can be followed in an audio only format.
 
-For individuals requiring hearing support or who speak English as a second language, we are working hard to provide captions for our live and prerecorded material. This may unfortunately not be possible in all cases.  
+For individuals requiring hearing support or who speak English as a second language, we are working hard to provide captions for our live and prerecorded material. This may unfortunately not be possible in all cases.
 
 <div id="zero-cost"></div>
 <br>
