@@ -17,7 +17,7 @@ This year, presentations and discussions will focus on three main themes:
 - Open Data 2.0
 - The Past, Present and Future of Open Neuroimaging
 
-Check out our website to find out more about [themes](https://ohbm.github.io/osr2020/themes/), [talk formats](https://ohbm.github.io/osr2020/formats/), and [open review](https://ohbm.github.io/osr2020/review/), or to [submit your talk](https://ohbm.github.io/osr2020/submit/)!
+Check out our website to find out more about [themes](https://ohbm.github.io/osr2021/themes/), [talk formats](https://ohbm.github.io/osr2021/formats/), and [open review](https://ohbm.github.io/osr2021/review/), or to [submit your talk](https://ohbm.github.io/osr2021/submit/)!
 
 ### 2. Apply for an OSR speaker mini-grant!
 
@@ -26,14 +26,14 @@ We are providing 20 mini-grants worth 100 USD each to help OSR speakers set up f
 These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
 Applicants can also suggest a different use of the mini-grant based on their specific needs.
 
-Find more information and apply as part of the [OSR talk submission process](https://ohbm.github.io/osr2020/submit/).
+Find more information and apply as part of the [OSR talk submission process](https://ohbm.github.io/osr2021/submit/).
 
 ### Important dates
 
-The first round of submissions is ***open until 15 May 2020***.
+The first round of submissions is ***open until (15 May 2021)***.
 
-After 15 May 2020, initial talk recordings will start. 
-To smooth the flow of a virtual conference, we aim to prerecord [Lightning and Demo talks](https://ohbm.github.io/osr2020/formats/). We are finalising details of this process and will share more information or requirements as soon as they are available.
+<!--After 15 May 2021, initial talk recordings will start.-->
+To smooth the flow of a virtual conference, we aim to prerecord [Lightning and Demo talks](https://ohbm.github.io/osr2021/formats/). We are finalising details of this process and will share more information or requirements as soon as they are available.
 
 The second and last round of submissions is ***open until 15 June 2020***.
 
@@ -43,15 +43,15 @@ Don't miss it!
 ### Can you contribute?
 
 Yes! We would love for the community to be involved in building an unforgettable OSR experience.
-Please find more information about [contributor roles and signup here](https://ohbm.github.io/osr2020/contribute/)!
+Please find more information about [contributor roles and signup here](https://ohbm.github.io/osr2021/contribute/)!
 
 ---
 
 If you have any further questions, please reach out to us:
-- Check out our [frequently asked questions](https://ohbm.github.io/osr2020/faq/)
+- Check out our [frequently asked questions](https://ohbm.github.io/osr2021/faq/)
 - Send a mail to ohbm`(dot)`osr`(at)`gmail`(dot)`com
 - Follow [@OHBMopen](https://twitter.com/ohbmopen) on Twitter
-- Visit our [News page](https://ohbm.github.io/osr2020/news/) for updates
+- Visit our [News page](https://ohbm.github.io/osr2021/news/) for updates
 
 ---
 
