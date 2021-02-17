@@ -30,6 +30,8 @@ Sessions will be repeated three times in 24 hours, once per time zone.
 You can still [**submit your idea for an emergent session**](https://ohbm.github.io/osr2021/submit), now and throughout the meeting.
 Have a look [**here**](https://ohbm.github.io/osr2021/formats/#emergent) if you want to know a bit more about what we mean with "emergent sessions".
 
+### 4. Join the open community review process!
+We'd love to hear your feedback on the emergent session submissions. All submissions are available [**here as Github issues**](https://github.com/ohbm/osr2021/issues?q=is%3Aissue+is%3Aopen+Emergent+session). Feel free to add an emoji (:100: :clap: :heart:) to the abstracts you like, or start a conversation with the authors by commenting!
 
 ---
 
