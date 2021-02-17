@@ -3,13 +3,13 @@ layout: page
 title: Talk formats
 ---
 
-- [Educational talks](#educational)
-- [Panel discussions](#panel)
-- [Emergent sessions](#emergent)
-
 Work will be presented in the OSR in one of the following formats:
 
 <img align="center" src="../img/osr_themes_eao_geg.svg" alt="formats">
+
+- [Educational talks](#educational)
+- [Panel discussions](#panel)
+- [Emergent sessions](#emergent)
 
 
 <div id='educational'></div><br>
