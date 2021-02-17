@@ -3,7 +3,11 @@ layout: page
 title: Volunteers
 ---
 
-The core OSR team were elected into these roles in July 2019, as part of the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/) (OS-SIG).
+The core OSR team were elected as part of the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/) (OS-SIG).
+
+
+### A special thanks to our volunteers!
+Our call for volunteers to help build a great Open Science Room was met with enthusiasm! We now have multiple teams up and running and we're very excited about what's next. We are so grateful to be part of such an engaging and helpful community. Thank you all!
 
 <br>
 
