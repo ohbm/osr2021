@@ -6,12 +6,13 @@ social-links: true
 show-avatar: true
 ---
 
+The OSR is the place for OHBM meeting attendees to discuss open research practices, learn from each other, collaborate, and to foster and grow an open and inclusive community.
+
 We have two exciting announcements!
 
 ### 1. The call for OSR talks is now open! 
 
-We have opened the call for talks, demos, and discussions in this year's virtual Open Science Room at the [*virtual* annual meeting of the OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3267&pageid=1).
-The OSR is the place for OHBM meeting attendees to discuss open research practices, learn from each other, collaborate, and to foster and grow an open and inclusive community.
+We have opened the call for educational talks (+ demos) and panel discussions in this year's virtual Open Science Room at the [*virtual* annual meeting of the OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3267&pageid=1).
 This year, presentations and discussions will focus on three main themes:
 - Open Workflows
 - Open Data 2.0
@@ -35,7 +36,7 @@ The first round of submissions is ***open until (15 May 2021)***.
 <!--After 15 May 2021, initial talk recordings will start.-->
 To smooth the flow of a virtual conference, we aim to prerecord [Lightning and Demo talks](https://ohbm.github.io/osr2021/formats/). We are finalising details of this process and will share more information or requirements as soon as they are available.
 
-The second and last round of submissions is ***open until 15 June 2020***.
+The second and last round of submissions is ***open until 15 June 2021***.
 
 Don't miss it!
 
