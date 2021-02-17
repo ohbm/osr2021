@@ -17,7 +17,7 @@ This year, presentations and discussions will focus on three main themes:
 - Open Data 2.0
 - The Past, Present and Future of Open Neuroimaging
 
-Check out our website to find out more about [themes](https://ohbm.github.io/osr2021/themes/), [talk formats](https://ohbm.github.io/osr2021/formats/), and [open review](https://ohbm.github.io/osr2021/review/), or to [submit your talk](https://ohbm.github.io/osr2021/submit/)!
+Check out our website to find out more about [talk formats](https://ohbm.github.io/osr2021/formats/), and [open review](https://ohbm.github.io/osr2021/review/), or to [submit your talk](https://ohbm.github.io/osr2021/submit/)!
 
 ### 2. Apply for an OSR speaker mini-grant!
 
