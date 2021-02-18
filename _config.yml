@@ -23,7 +23,7 @@ navbar-links:
   Program:
     - Schedule: "schedule"
     - Speakers: "speakers"
-    - Themes: "themes"
+#    - Themes: "themes"
     - Formats: "formats"
     - Submit: "submit"
     - Review: "review"
