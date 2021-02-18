@@ -54,10 +54,4 @@ When completing the form you will be asked to **state explicitly what you intend
 
 <div id="hubs"></div>
 <br>
-## Timezones 
 
-<!--img align="center" src="../img/OSR_schedule.png" alt="hubs" width="100%"-->
-
-All our content will be repeated three times over 24 hours, to enable you to participate in the OSR at a time which suits you. Our speakers will be available for live Q&A across as many different time zones as possible. This means you will be able to follow a pseudo-live program and participate in live discussion where ever you are joining from.
-
-View our [schedule](schedule.html) for your timezone by selecting your hub from the three shown. You will then be able to pick your specific country/city to see times converted to your location. No more time zone conversion! Yay!
