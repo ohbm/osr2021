@@ -16,7 +16,6 @@ All interactions relating to the OSR should be conducted in accordance with the 
 - [Sensory needs](#sensory)
 - [Open broadcast for zero-cost registrants](#zero-cost)
 - [Participant mini-grants](#mini-grants)
-- [Timezones](#timezones)
 
 <div id="virtual"></div>
 <br>
