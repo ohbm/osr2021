@@ -30,11 +30,11 @@ You do not need to disclose a reason for this.
 
 The community is invited to openly review and comment on talk and emergent proposals.
 We will use this feedback to inform our decisions in selecting proposals,
-along with other criteria described on our [FAQ page](https://ohbm.github.io/osr2020/faq/).
+along with other criteria described on our [FAQ page](/faq.md).
 You are encouraged to submit your proposal as early as possible to allow time for community feedback.
 
 During the submission process you will be asked to provide your GitHub username so you can be linked to the issue.
-You will receive an email confirmation when your submission has been recorded, and this will include a link to your issue on our [GitHub repository](https://github.com/ohbm/osr2020/issues).
+You will receive an email confirmation when your submission has been recorded, and this will include a link to your issue on our [GitHub repository](https://github.com/ohbm/osr2021/issues).
 
 The [OS-SIG twitter account](https://twitter.com/ohbmopen) will also tweet a link to every a new talk proposal added to the repository and invite community review.
 Please feel free to use this and other means to promote your proposal in any way you wish and gather as much feedback or interest as you can!
