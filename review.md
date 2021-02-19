@@ -14,4 +14,4 @@ In order to comment on or endorse a proposal, you will be required to log into G
 If you do not have a GitHub username, we invite you to follow the instructions available
 <a href="https://github.com/join">here</a> to create your free account.
 
-<img align="center" src="../img/undraw_personal_opinions_g3kr.svg" alt="workflow" width="100%">
+<img align="center" src="../img/undraw_personal_opinions_g3kr_geg.svg" alt="workflow" width="100%">
