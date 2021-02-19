@@ -7,7 +7,7 @@ title: Register for the OSR!
 
 **Registration here (via Eventbrite) is not necessary if you have already registered for the main OHBM meeting.** You will find the passwords you need to join our live events at the Open Science SIG Booth. Visit the OHBM "Exhibit Hall" and search for the word "open". Once at the booth, select "How to Connect" to open a file containing all the passwords and links you need. 
 
-Please also use this form to apply for our [Participant mini-grants](https://ohbm.github.io/osr2020/access/#mini-grants). *Please read the guidance around the purpose of these mini-grants before applying.*
+Please also use this form to apply for our [Participant mini-grants](access.md/#mini-grants). *Please read the guidance around the purpose of these mini-grants before applying.*
 
 <div id="eventbrite-widget-container-108179533898"></div>
 
