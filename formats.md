@@ -11,10 +11,10 @@ Work will be presented in the OSR in one of the following formats:
 - [Panel discussions](#panel)
 - [Emergent sessions](#emergent)
 
-<p align="center">
+<p align="justify">
   <div id='educational'></div>
   Educational talks will be pre-recorded and broadcast according to our schedule. Speakers will be available for Q&A immediately following the broadcast of their talks in at least two timezone hubs. You can also leave questions on pre-specified Mattermost channels and speakers will be encouraged to get back to you.
-<br>
+<br></p>
 <div id='panel'></div>
 Panel discussions will be live and feature a host that will moderate a predetermined topic of discussion among a panel of invited speakers. Questions from the audience are encouraged (via chat feature) and will be transmitted to the panel by the host throughout the session.
 <br>
@@ -24,4 +24,3 @@ Emergent sessions may last from 15 minutes to one hour. The duration will be set
 Emergent sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects, hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!
 All emergent sessions will be recorded (unless we have specific reason to think this would inhibit discussion) and made available for viewing on Crowdcast straight after the event. Links to this “spontaneously” recorded material will be shared with registered participants.
 <br>
-</p>
