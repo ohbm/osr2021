@@ -19,7 +19,7 @@ By using the form below to submit your proposal you are providing your consent f
 Sensitive personal information will NOT be made public.**
 
 Please **DO NOT** use the submit form if there is any reason why your proposal should not be made available for open review.
-In these instances, please [contact us](https://ohbm.github.io/osr2020/contact/) supplying the theme (if relevant), format and a short description of your talk.
+In these instances, please [contact us](/contact/) supplying the theme (if relevant), format and a short description of your talk.
 Please comment that you do not wish for your proposal to be made public.
 You do not need to disclose a reason for this.
 
