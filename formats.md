@@ -25,3 +25,4 @@ Emergent sessions may last from 15 minutes to one hour. The duration will be set
 Emergent sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects, hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!
 
 All emergent sessions will be recorded (unless we have specific reason to think this would inhibit discussion) and made available for viewing on Crowdcast straight after the event. Links to this “spontaneously” recorded material will be shared with registered participants.
+<br>
