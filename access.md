@@ -36,7 +36,7 @@ For individuals requiring hearing support or who speak English as a second langu
 <br>
 ## Open broadcast for zero-cost registrants
 
-The OSR can be accessed for zero-cost at the point of [registration](register.md). Zero-cost registrants can watch [scheduled talks](schedule.html), take part in live text-based Q&A, [host](submit.md) and participate in [emergents sessions](format.md/#emergent), and join our scheduled social events!
+The OSR can be accessed for zero-cost at the point of [registration](register.md). Zero-cost registrants can watch [scheduled talks](schedule.html), take part in live text-based Q&A, [host](submit.md) and participate in [emergent sessions](format.md/#emergent), and join our scheduled social events!
 
 Broadcast will take place via Crowdcast and DouYu. Both these services allow participants to direct questions to speakers. You will be sent details on how to connect to these services after [registration](register.md) and before the start of the meeting on Tuesday 23rd June.
 
