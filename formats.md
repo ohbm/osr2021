@@ -7,7 +7,7 @@ OSR sessions will have one of the following formats:
 
 <img align="center" src="../img/osr_themes_eao_geg.svg" alt="formats">
 
-- [Educational talks](#educational)
+- [Educational sessions](#educational)
 - [Panel discussions](#panel)
 - [Emergent sessions](#emergent)
 
