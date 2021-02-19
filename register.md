@@ -9,6 +9,10 @@ title: Register for the OSR!
 
 Please also use this form to apply for our [Participant mini-grants](access.md/#mini-grants). *Please read the guidance around the purpose of these mini-grants before applying.*
 
+
+Link to register will come soon!!
+
+<!--
 <div id="eventbrite-widget-container-108179533898"></div>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
