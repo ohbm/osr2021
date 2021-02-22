@@ -16,7 +16,7 @@ We are organising, among other events, the Open Science Room at the [online 2021
 
 ### Get involved
 
-Feel free [submit an abstract](https://ohbm.github.io/osr2021/submit/), join in [open community review](https://ohbm.github.io/osr2021/review/), [contribute to the OSR](https://ohbm.github.io/osr2021/contribute/) or [find out more](https://ohbm.github.io/osr2021/faq/)! All information is available on [our website](https://ohbm.github.io/osr2021).
+Feel free [submit an abstract](https://ohbm.github.io/osr2021/submit/), join in [open community review](https://ohbm.github.io/osr2021/review/), [contribute to the OSR](https://ohbm.github.io/osr2021/contribute/) or [find out more](/faq.md/)! All information is available on [our website](https://ohbm.github.io/osr2021).
 
 ### Contact us
 
