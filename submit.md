@@ -16,7 +16,7 @@ title: Submit
 
 {::options parse_block_html="true" /}
 <p align="justify">
-**All proposals sould be submitted by using the form below. By submitting your proposal you are providing your consent for the information supplied to be made publicly available for the purposes of open review.
+**All proposals sould be submitted by using the form below. By submitting your proposal you are providing your consent for the information supplied to be made publicly available for the purposes of [open review](/review.md).
 Sensitive personal information will NOT be made public.**
 </p>
 <p align="justify">
