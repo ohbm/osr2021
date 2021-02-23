@@ -56,9 +56,12 @@ We are pleased to provide a limited number of participant mini-grants of up to 1
 <p align="justify">
 Applicants can also suggest a different use of the mini-grant based on their specific needs, however **mini-grants will only be considered for the purposes of covering costs directly incurred through participating in this event.**
 </p>
+{::options parse_block_html="true" /}
+<p align="justify">
 If you would like to apply for a mini-grant, please indicate it when filling the [Abstract submission form](/submit.md/#submission).
 When completing the form you will be asked to **state explicitly what you intend to do with the grant money and what benefit you will gain from receiving it**. Applications will be reviewed after the meeting, and you will be notified of success and processes of award as soon as possible after. We will prioritise applicants from underrepresented groups and those with specific financial need.
-<div id="hubs"></div>
+</p>
+{::options parse_block_html="false" /}
 <br>
 
 
