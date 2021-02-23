@@ -58,11 +58,11 @@ If you do not have a GitHub username, we invite you to follow the instructions a
   Also, take into account the following:
 {::options parse_block_html="true" /}
 <p align="justify">
-  **Educational sessions:** These will be pre-recorded talks covering introductory level themes related to open science with the aim of introducing OSR participants to the ideas that motivate open science and/or to tools that help facilitate open science.
+  **Educational sessions:** Will be pre-recorded talks covering introductory level themes related to open science with the aim of introducing OSR participants to the ideas that motivate open science and/or to tools that help facilitate open science.
 </p>
 {::options parse_block_html="false" /}
 <p align="justify">
-  **Panel discussions:** These will be live discussions among a small group of panel members, mediated by a host. The discussions will cover more advanced topics related to open-science or EDI issues.
+  **Panel discussions:** Will be live discussions among a small group of panel members, mediated by a host. The discussions will cover more advanced topics related to open-science or EDI issues.
 </p>
 <p align="justify">
 After the submission process you will receive an email confirmation when your submission has been recorded.
