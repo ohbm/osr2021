@@ -47,5 +47,3 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdP3xY-mBxB-xqOVmszdVcIICpccRhs9c8uyx6cR9VUyzZc7w/viewform?embedded=true" width="640" height="1673" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
 <br>
-
-</div>   -->
