@@ -1,5 +1,3 @@
-{::options parse_block_html="true" /}
-
 ---
 layout: page
 title: Accessibility
@@ -41,13 +39,13 @@ For individuals requiring hearing support or who speak English as a second langu
 <br>
 
 ## Open broadcast for zero-cost registrants
-
+{::options parse_block_html="true" /}
 The OSR can be accessed for zero-cost at the point of [registration](register.md). Zero-cost registrants can watch [scheduled sessions](schedule.html), take part in live text-based Q&A, [host](submit.md) and participate in [emergent sessions](formats.md/#emergent), and join our scheduled social events!
 Broadcast will take place via Crowdcast and DouYu. Both these services allow participants to direct questions to speakers. You will be sent details on how to connect to these services after [registration](register.md) and before the start of the meeting on Tuesday 23rd June.
 We also encourage our zero-cost registrants to use [Mattermost](https://mattermost.brainhack.org) to chat together, with our speakers and with our [volunteer team](volunteers.md). If you are not familiar with Mattermost, you can check out the [user-guide](https://docs.mattermost.com/guides/user.html) and this [short video](https://www.youtube.com/watch?v=eq4yEM5z5SY&list=PL-jqvaPsjQpMqnRgFEw_3fuGQbcVDTpaM&index=5) describing how it works.
 <div id="mini-grants"></div>
 <br>
-
+{::options parse_block_html="false" /}
 ## Participant mini-grants
 
 <p align="justify">
@@ -61,4 +59,4 @@ When completing the form you will be asked to **state explicitly what you intend
 <div id="hubs"></div>
 <br>
 
-{::options parse_block_html="false" /}
+
