@@ -14,10 +14,11 @@ title: Submit
 
 ## Open review
 
+{::options parse_block_html="true" /}
+<p align="justify">
 **All proposals sould be submitted by using the form below. By submitting your proposal you are providing your consent for the information supplied to be made publicly available for the purposes of open review.
 Sensitive personal information will NOT be made public.**
-
-{::options parse_block_html="true" /}
+</p>
 <p align="justify">
 Please **DO NOT** use the submit form if there is any reason why your proposal should not be made available for open review.
 In these instances, please [contact us](/contact.md/) supplying the theme (if relevant), format and a short description of your talk.
