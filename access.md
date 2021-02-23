@@ -1,10 +1,11 @@
+{::options parse_block_html="true" /}
+
 ---
 layout: page
 title: Accessibility
 
 ---
 
-{::options parse_block_html="true" /}
 
 
 ### Research is only reproducible if it is available to and accessible by all
