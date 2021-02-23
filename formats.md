@@ -13,7 +13,7 @@ OSR sessions will have one of the following formats:
 
  <div id='educational'></div>
 <p align="justify">
-Educational sessions will be pre-recorded and broadcast according to our schedule. Speakers will be available for Q&A immediately following the broadcast of their sessions in at least two timezone hubs. You can also leave questions on pre-specified Mattermost channels and speakers will be encouraged to get back to you.
+**Educational sessions** will be pre-recorded and broadcast according to our schedule. Speakers will be available for Q&A immediately following the broadcast of their sessions in at least two timezone hubs. You can also leave questions on pre-specified Mattermost channels and speakers will be encouraged to get back to you.
 </p>
 <div id='panel'></div>
 <p align="justify">Panel discussions will be live and feature a host that will moderate a predetermined topic of discussion among a panel of invited speakers. Questions from the audience are encouraged (via chat feature) and will be transmitted to the panel by the host throughout the session.</p>
