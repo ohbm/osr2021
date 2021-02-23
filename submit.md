@@ -51,12 +51,13 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 ## Submission
 {::options parse_block_html="true" /}
 <p align="justify">
-
-
 During the submission process you will be asked to provide your GitHub username so you can be linked to the issue.
 You will receive an email confirmation when your submission has been recorded.
 </p>
 <p align="justify">
+</p>
+{::options parse_block_html="false" /}
+
 <br>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdP3xY-mBxB-xqOVmszdVcIICpccRhs9c8uyx6cR9VUyzZc7w/viewform?embedded=true" width="640" height="1673" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
