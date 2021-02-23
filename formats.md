@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talk formats
+title: OSR formats
 ---
 
 OSR sessions will have one of the following formats:
