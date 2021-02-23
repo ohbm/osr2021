@@ -35,19 +35,21 @@ We have communicated best practices in designing accessible presentations with a
 <p align="justify">
 For individuals requiring hearing support or who speak English as a second language, we are working hard to provide captions for our live and prerecorded material. This may unfortunately not be possible in all cases.
 </p>
+
 <div id="zero-cost"></div>
 <br>
-
 ## Open broadcast for zero-cost registrants
 {::options parse_block_html="true" /}
+<p align="justify">
 The OSR can be accessed for zero-cost at the point of [registration](register.md). Zero-cost registrants can watch [scheduled sessions](schedule.html), take part in live text-based Q&A, [host](submit.md) and participate in [emergent sessions](formats.md/#emergent), and join our scheduled social events!
 Broadcast will take place via Crowdcast and DouYu. Both these services allow participants to direct questions to speakers. You will be sent details on how to connect to these services after [registration](register.md) and before the start of the meeting on Tuesday 23rd June.
 We also encourage our zero-cost registrants to use [Mattermost](https://mattermost.brainhack.org) to chat together, with our speakers and with our [volunteer team](volunteers.md). If you are not familiar with Mattermost, you can check out the [user-guide](https://docs.mattermost.com/guides/user.html) and this [short video](https://www.youtube.com/watch?v=eq4yEM5z5SY&list=PL-jqvaPsjQpMqnRgFEw_3fuGQbcVDTpaM&index=5) describing how it works.
+</p>
+{::options parse_block_html="false" /}
+
 <div id="mini-grants"></div>
 <br>
-{::options parse_block_html="false" /}
 ## Participant mini-grants
-
 <p align="justify">
 We are pleased to provide a limited number of participant mini-grants of up to 100 USD. We will consider mini-grant applications from both OHBM registrants and zero-cost registrants. These mini-grants are intended to support engagement and participation in the OSR. These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
 </p>
