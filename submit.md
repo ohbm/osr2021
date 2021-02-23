@@ -56,7 +56,7 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 </p>
 {::options parse_block_html="false" /}
   Also, take into account the following:
-{::options parse_block_html="false" /}
+{::options parse_block_html="true" /}
 <p align="justify">
   **Educational sessions:** These will be pre-recorded talks covering introductory level themes related to open science with the aim of introducing OSR participants to the ideas that motivate open science and/or to tools that help facilitate open science.
 </p>
@@ -69,7 +69,5 @@ After the submission process you will receive an email confirmation when your su
 </p>
 {::options parse_block_html="false" /}
 
-<figure class="video_container">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdP3xY-mBxB-xqOVmszdVcIICpccRhs9c8uyx6cR9VUyzZc7w/viewform?embedded=true" width="640" height="1673" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
-</figure>
 <br>
