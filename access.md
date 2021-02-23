@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 ---
 layout: page
 title: Accessibility
@@ -59,3 +61,4 @@ When completing the form you will be asked to **state explicitly what you intend
 <div id="hubs"></div>
 <br>
 
+{::options parse_block_html="false" /}
