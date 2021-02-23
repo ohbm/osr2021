@@ -51,8 +51,13 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 ## Submission
 {::options parse_block_html="true" /}
 <p align="justify">
-During the submission process you will be asked to provide your GitHub username so you can be linked to the issue.
-You will receive an email confirmation when your submission has been recorded.
+  Before starting your submission make sure you are familiar with the [OSR formats](/formats.md){:target="_blank"}.
+  Also, take into account the following:
+  
+**Educational sessions:** These will be pre-recorded talks covering introductory level themes related to open science with the aim of introducing OSR participants to the ideas that motivate open science and/or to tools that help facilitate open science.
+
+**Panel discussions:** These will be live discussions among a small group of panel members, mediated by a host. The discussions will cover more advanced topics related to open-science or EDI issues.
+After the submission process you will receive an email confirmation when your submission has been recorded.
 </p>
 <p align="justify">
 </p>
