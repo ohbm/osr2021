@@ -5,7 +5,7 @@ title: Speakers
 
 
 We are excited to host a wonderful list of speakers in the Open Science Room.
-They will be contributing lightning talks, demos, keynotes and invited emergent sessions.
+They will be contributing Educational sessions, panel discussions, and emergent sessions.
 Click on a speaker below to see their bio and talk details.
 
 <br>
