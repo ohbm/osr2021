@@ -4,6 +4,9 @@ title: Accessibility
 
 ---
 
+{::options parse_block_html="true" /}
+
+
 ### Research is only reproducible if it is available to and accessible by all
 
 <!--img align="right" src="../img/undraw_enter_uhqk.png" alt="future" width="40%"-->
@@ -49,8 +52,9 @@ We also encourage our zero-cost registrants to use [Mattermost](https://mattermo
 <p align="justify">
 We are pleased to provide a limited number of participant mini-grants of up to 100 USD. We will consider mini-grant applications from both OHBM registrants and zero-cost registrants. These mini-grants are intended to support engagement and participation in the OSR. These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
 </p>
+<p align="justify">
 Applicants can also suggest a different use of the mini-grant based on their specific needs, however **mini-grants will only be considered for the purposes of covering costs directly incurred through participating in this event.**
-
+</p>
 If you would like to apply for a mini-grant, please indicate it when filling the [Abstract submission form](/submit.md/#submission).
 When completing the form you will be asked to **state explicitly what you intend to do with the grant money and what benefit you will gain from receiving it**. Applications will be reviewed after the meeting, and you will be notified of success and processes of award as soon as possible after. We will prioritise applicants from underrepresented groups and those with specific financial need.
 <div id="hubs"></div>
