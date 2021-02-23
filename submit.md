@@ -62,7 +62,6 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 After the submission process you will receive an email confirmation when your submission has been recorded.
 </p>
 {::options parse_block_html="false" /}
-
 <br>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdP3xY-mBxB-xqOVmszdVcIICpccRhs9c8uyx6cR9VUyzZc7w/viewform?embedded=true" width="640" height="1673" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
