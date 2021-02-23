@@ -9,13 +9,12 @@ title: Submit
 
 ---
 
-<div id="recording"></div>
+<div id="review"></div>
 <br>
 
 ## Open review
 
-**All submitted talk and emergent proposals will automatically populate an issue in our publicly available [GitHub repository](https://github.com/ohbm/osr2020/issues).
-By using the form below to submit your proposal you are providing your consent for the information supplied to be made publicly available for the purposes of open review.
+**All proposals sould be submitted by using the form below. By submitting your proposal you are providing your consent for the information supplied to be made publicly available for the purposes of open review.
 Sensitive personal information will NOT be made public.**
 
 Please **DO NOT** use the submit form if there is any reason why your proposal should not be made available for open review.
@@ -44,6 +43,11 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 <div id="tripetto"></div>
 <br>
 ## Submission
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdP3xY-mBxB-xqOVmszdVcIICpccRhs9c8uyx6cR9VUyzZc7w/viewform?embedded=true" width="640" height="1673" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+
+<br>
+
 
 <div style="--aspect-ratio: 3/4;">
   <iframe
