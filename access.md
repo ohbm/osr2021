@@ -1,5 +1,3 @@
-{::options parse_block_html="true" /}
-
 ---
 layout: page
 title: Accessibility
