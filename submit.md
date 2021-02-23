@@ -5,7 +5,7 @@ title: Submit
 
 - [Open review](#review)
 - [Community feedback](#feedback)
-- [Submission](#submit)
+- [Submission](#submission)
 
 ---
 
@@ -40,7 +40,7 @@ Please feel free to use this and other means to promote your proposal in any way
 
 If you do not have a GitHub username, we invite you to follow the instructions available [here](https://github.com/join) to create your free account before beginning the submission process.
 
-<div id="submit"></div>
+<div id="submission"></div>
 <br>
 ## Submission
 
