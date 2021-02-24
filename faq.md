@@ -13,7 +13,6 @@ title: FAQ
 - [Find help](#help)
 - [How will the virtual OSR differ from the in-person OSR?](#virtual)
 - [How will you handle time zone differences of attendees?](#time-zones)
-- [Why have talks been pre-recorded?](#prerecord)
 - [Who has contributed to the OSR?](#contributors)
 - [Who has sponsored the OSR?](#sponsors)
 
@@ -28,17 +27,17 @@ The Open Science Room (OSR) is a conference within a conference, at the <a href=
 
 <div id='whopresent'></div><br>
 ### Who will be presenting in the OSR?
-We have selected presentations following an open call for submission and an open review. The [schedule](schedule.html) of talks contains links to the accepted presentations, with links to speaker bios. You can also review [speaker profiles](speakers-PLACEHOLDER.md).
+We have selected presentations following an open call for submission and an open review. The [schedule](/schedule.html) of talks contains links to the accepted presentations, with links to speaker bios. You can also review [speaker profiles](/speakers-PLACEHOLDER.md).
 
-We are open to [submissions for emergent sessions](submit.md) throughout the meeting. Emergent organisers will also be listed on the [speakers](speamers-PLACEHOLDER.md) page where profiles are provided.
+We are open to [submissions for emergent sessions](submit.md) throughout the meeting. Emergent organisers will also be listed on the [speakers](/speakers-PLACEHOLDER.md) page where profiles are provided.
 
 <div id='whovisit'></div><br>
 ### Who can participate in the OSR?
-Anyone can participate in the OSR! Our content is scheduled to minimise clashes with live material being presented in the main meeting, and our content will be repeated three times every 24 hours at different [timezones](access.md) so you can join at a time convenient for you.
+Anyone can participate in the OSR! Our content is scheduled to minimise clashes with live material being presented in the main meeting, and our content will be repeated three times every 24 hours at different timezones (The americas, Europ, and Asia) so you can join at a time convenient for you.
 
 **You must register for the OSR to obtain the details to connect to the discussions.** Registration for the OSR is included with the main meeting if you are attending the full <a href="https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958">OHMB program</a>. Details for how to join the OSR will be provided in the OHBM meeting virtual platform.
 
-You can also [register](register.md) for the OSR at [zero-cost](access.md/#zero-cost). Please complete the registration form and we will communicate the details regarding how to join the conversation before the meeting commences on 26th June.
+You can also [register](register.md) for the OSR at [zero-cost](access.md/#zero-cost). Please complete the registration form and we will communicate the details regarding how to join the conversation before the meeting commences on June.
 
 <div id='attend'></div><br>
 ### Do I have to travel to participate in the OSR?
@@ -68,17 +67,13 @@ For Code of conducts violations: please refer to the contacts in the <a href="ht
 
 <div id='virtual'></div><br>
 ### How will the virtual OSR differ from the in-person OSR?
-We'd like for them to be as similar as possible! COnsistent to the OSR in 2020, we have created a space for talks, spaces for chat and networking, the ability to ask questions from speakers, and a chance for one-to-one or one-to-many support from the community.
+We'd like for them to be as similar as possible! Consistent to the OSR in 2020, we have created a space for talks, spaces for chat and networking, the ability to ask questions from speakers, and a chance for one-to-one or one-to-many support from the community.
 
-There have been a few format changes from the main meeting to reduce the load and compensate for the understanding that attention spans will be divided when attending online. The scheduled talks will be a maximum of 30 minutes long, and there will be comfortable breaks throughout the day. We will also make greater use of polls and audience interaction tools to keep you engaged, and there will be live chat happening alongside talks. There will also be "on-demand" material which you can watch whenever it is convenient for you.
+There have been a few format changes from the main meeting to reduce the load and compensate for the understanding that attention spans will be divided when attending online. The scheduled talks will be a maximum duration, and there will be comfortable breaks throughout the day. We will also make greater use of polls and audience interaction tools to keep you engaged, and there will be live chat happening alongside talks. There will also be "on-demand" material which you can watch whenever it is convenient for you.
 
 <div id='time-zones'></div><br>
 ### How will you handle time zone differences of attendees?
-We have structured our content to be repeated across three [timezones] over 24 hours. The program of prerecorded talks will run for 2 hours 30 minutes per day, and we have scheduled it to fit into a 09:00 - 17:00 day for most regions within each hub. Emergent and social sessions will be held at the beginning and end of each day, so they should be convenient for the start or end of the day in each hub depending on where you are located. Take a look at our [schedule](schedule.html) to find the time of broadcasts in your hub, and view activities in your local time zone.
-
-<div id='prerecord'></div><br>
-### Why have talks been pre-recorded?
-Pre-recording of talks will minimise technicalities in switching between speakers, which will be frequent in the short formats. Giving a prerecorded talk also means the speaker can be on hand to answer questions from the community during the talk itself, and will not have to split their attention between presentation and text chat. Pre-recording also means presenters will have a greater opportunity to deliver the talk they were aiming for in the allotted time, which will be invaluable for our short format sessions. Pre-recording also means that we have all material ready to broadcast across each hub in turn, rather than waiting for speakers to wake up in their local timezones before we can share their work with the world!
+We have structured our content to be repeated across three [timezones] over 24 hours. The program of prerecorded talks will run for 2 hours 30 minutes per day, and we have scheduled it to fit into a 09:00 - 17:00 day for most regions within each time zone. Emergent and social sessions will be held at the beginning and end of each day, so they should be convenient for the start or end of the day in each hub depending on where you are located. Take a look at our [schedule](schedule.html) to find the time of broadcasts in your time zone, and view activities in your local time zone.
 
 <div id='contributors'></div><br>
 ### Who has contributed to the OSR?
