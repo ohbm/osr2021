@@ -72,7 +72,7 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 </p>
 {::options parse_block_html="false" /}
 <p align="justify">
-After the submission process you will receive an email confirmation when your submission has been recorded.
+After the submission process you will receive a confirmation when your submission has been recorded.
 </p>
 
 <figure class="video_container">
