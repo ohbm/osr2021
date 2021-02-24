@@ -76,6 +76,6 @@ After the submission process you will receive an email confirmation when your su
 </p>
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdP3xY-mBxB-xqOVmszdVcIICpccRhs9c8uyx6cR9VUyzZc7w/viewform?embedded=true" width="640" height="1673" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+  <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUMzFXWVBZTThLTTBQME02RTg0SDI1QlQxQS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 </figure>
 <br>
