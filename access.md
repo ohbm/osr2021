@@ -53,9 +53,11 @@ We also encourage our zero-cost registrants to use [Mattermost](https://mattermo
 <p align="justify">
 We are pleased to provide a limited number of participant mini-grants of up to 100 USD. We will consider mini-grant applications from both OHBM registrants and zero-cost registrants. These mini-grants are intended to support engagement and participation in the OSR. These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
 </p>
+{::options parse_block_html="true" /}
 <p align="justify">
 Applicants can also suggest a different use of the mini-grant based on their specific needs, however **mini-grants will only be considered for the purposes of covering costs directly incurred through participating in this event.**
 </p>
+{::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
 <p align="justify">
 If you would like to apply for a mini-grant, please indicate it when filling the [Abstract submission form](/submit.md/#submission).
