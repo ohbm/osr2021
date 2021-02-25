@@ -72,6 +72,9 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 </p>
 {::options parse_block_html="false" /}
 <p align="justify">
+During the submission process you will be asked about your aplication to possibly get a [Participant mini-grant](/access.md/#mini-grant).
+</p>
+<p align="justify">
 After the submission process you will receive a confirmation when your submission has been recorded.
 </p>
 
