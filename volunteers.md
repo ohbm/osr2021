@@ -3,7 +3,7 @@ layout: page
 title: Volunteers
 ---
 
-The core OSR team were elected as part of the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/) (OS-SIG).
+The core OSR team were elected as part of the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/#OSSIG_team) (OS-SIG).
 
 
 ### A special thanks to our volunteers!
@@ -14,64 +14,14 @@ Our call for volunteers to help build a great Open Science Room was met with ent
 
 <table class="people">
     <tr class="people">
-        <td class="people">
-            <a style="display:block; color:#05323F" href="../cassandra_gould_van_praag">
-            <aside>
-            <header>
-                <img src="../img/team/cassandra_gould_van_praag.jpg" style="height:200px; border-radius:50%;">
-                <h3>Cassandra Gould van Praag</h3>
-                <h4>OSR Co-chair</h4>
-                <h6>Wellcome Centre for Integrative Neuroimaging, University of Oxford</h6>
-                <h4>
-                <a target="_blank" href="https://twitter.com/cassgvp"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                <a target="_blank" href="https://github.com/cassgvp"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                </h4>
-                <br>
-            </header>
-            </aside>
-            </a>
-        </td>
-        <td class="people">
-            <a style="display:block; color:#05323F" href="../stephan_heunis">
-            <aside>
-            <header>
-                <img src="../img/team/stephan_heunis.jpg" style="height:200px; border-radius:50%;">
-                <h3>Stephan Heunis</h3>
-                <h4>OSR Co-chair</h4>
-                <h6>Eindhoven University of Technology, The Netherlands</h6>
-                <h4>
-                <a target="_blank" href="https://twitter.com/fmrwhy"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                <a target="_blank" href="https://github.com/jsheunis"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                <a target="_blank" href="https://jsheunis.github.io/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                </h4>
-                <br>
-            </header>
-            </aside>
-            </a>
-        </td>
+        
+        
     </tr>
 </table>
 
 <table class="people">
     <tr class="people">
-        <td class="people">
-            <a style="display:block; color:#05323F" href="../camille_maumet">
-            <aside>
-            <header>
-                <img src="../img/team/camille_maumet.jpg" style="height:200px; border-radius:50%;">
-                <h3>Camille Maumet</h3>
-                <h4>OS-SIG Chair</h4>
-                <h6>Inria, Univ Rennes, CNRS, Inserm</h6>
-                <h4>
-                <a target="_blank" href="https://twitter.com/cmaumet"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                <a target="_blank" href="https://github.com/cmaumet"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                <a target="_blank" href="http://camillemaumet.com/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                </h4>
-                <br>
-            </header>
-            </aside>
-            </a>
-        </td>
+        
     </tr>
 </table>
 
