@@ -9,22 +9,6 @@ The core OSR team were elected as part of the [OHBM Open Science Special Interes
 ### A special thanks to our volunteers!
 Our call for volunteers to help build a great Open Science Room was met with enthusiasm! We now have multiple teams up and running and we're very excited about what's next. We are so grateful to be part of such an engaging and helpful community. Thank you all!
 
-<br>
-
-
-<table class="people">
-    <tr class="people">
-        
-        
-    </tr>
-</table>
-
-<table class="people">
-    <tr class="people">
-        
-    </tr>
-</table>
-
 Together with the OSR team, the wonderfully talented and hard-working volunteers below made significant contributions to the Open Science Room. We have greatly enjoyed working with them, and proud to have them in our community.
 Have a look at their contact links and bios below, and give them a virtual high-five in the OSR!
 
