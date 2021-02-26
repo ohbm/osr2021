@@ -65,7 +65,7 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
 <p align="justify">
-  **Panel discussions** will be live discussions among a small group of panel members, mediated by a host. The discussions will cover more advanced topics related to open-science or EDI issues.
+  **Panel discussions** will be live discussions among a small group of panel members, mediated by a host. The discussions will cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues.
 </p>
 <p align="justify">
 **If you are proposing a panel, please include information about:** what is it that you are proposing? Are you proposing a panel topic and you want to partake in? Do you have other panel members that have agreed to do this with you? Do you want to moderate? Are you choosing from panels that have already been created?
