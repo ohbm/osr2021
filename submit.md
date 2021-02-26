@@ -70,10 +70,10 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 <p align="justify">
 **If you are proposing a panel, please include information about:** what is it that you are proposing? Are you proposing a panel topic and you want to partake in? Do you have other panel members that have agreed to do this with you? Do you want to moderate? Are you choosing from panels that have already been created?
 </p>
-{::options parse_block_html="false" /}
 <p align="justify">
 During the submission process you will be asked about your aplication to possibly get a [Participant mini-grant](/access.md/#mini-grant).
 </p>
+{::options parse_block_html="false" /}
 <p align="justify">
 After the submission process you will receive a confirmation when your submission has been recorded.
 </p>
