@@ -19,7 +19,8 @@ OSR sessions will have one of the following formats:
 <p align="justify">**Panel discussions** will be live and feature a host that will moderate a predetermined topic of discussion among a panel of invited speakers. Questions from the audience are encouraged (via chat feature) and will be transmitted to the panel by the host throughout the session.</p>
 <p align="justify">Panel discussions are pre-defined sessions on the following topics: </p>
 
-1.  topic1: description
+1.  topic1:
+    description
 2.  topic2: description
 3.  topic3: description
 4.  topic4: description
