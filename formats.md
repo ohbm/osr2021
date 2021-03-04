@@ -20,14 +20,14 @@ OSR sessions will have one of the following formats:
 <p align="justify">Panel discussions are pre-defined sessions on the following topics: </p>
 
 1.  topic1:
-    To be assignated.
-2.  topic2: To be assignated.
-3.  topic3: To be assignated.
-4.  topic4: To be assignated.
-5.  topic5: To be assignated.
-6.  topic6: To be assignated.
-7.  topic7: To be assignated.
-8.  topic8: To be assignated.
+    To be announced.
+2.  topic2: To be announced.
+3.  topic3: To be announced.
+4.  topic4: To be announced.
+5.  topic5: To be announced.
+6.  topic6: To be announced.
+7.  topic7: To be announced.
+8.  topic8: To be announced.
 
 <div id='emergent'></div>
 <p align="justify">**Emergent sessions** are bookable in advance or during the meeting times allocated for emergent sessions. Emergent sessions can be booked by any registered participant in advance or at any point in the meeting, while there is space in the schedule. Submitted emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
