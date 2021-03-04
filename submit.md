@@ -60,22 +60,25 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 </p>
 {::options parse_block_html="true" /}
 <p align="justify">
-  **Educational sessions** will be pre-recorded talks covering introductory level themes related to open science with the aim of introducing OSR participants to the ideas that motivate open science and/or to tools that help facilitate open science.
+  **Educational sessions** will be 20 minute pre-recorded talks covering introductory level themes related to open science with the aim of introducing OSR participants to the ideas that motivate open science and/or to tools that help facilitate open science.
+</p>
+<p align="justify">
+  Educational sessions will be pre-recorded talks covering introductory level themes related to open science with the aim of introducing OSR participants to the ideas that motivate open science and/or to tools that help facilitate open science.
 </p>
 {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
 <p align="justify">
-  **Panel discussions** will be live discussions among a small group of panel members, mediated by a host. The discussions will cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues. You are choosing from panel topics that have already been established (see [OSR formats](/formats.md){:target="_blank"} for more information).
+  **Panel discussions** will be 30 minute live discussions among a small group of panel members, mediated by a host. The discussions will cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues. You are choosing from panel topics that have already been established (see [OSR formats](/formats.md){:target="_blank"} for more information).
 </p>
 <p align="justify">
-**If you are proposing a panel, please include information about:** What is it that you are proposing? What panel topic you want to partake in? Do you have other panel members that have agreed to do this with you? Do you want to moderate? 
+**If you are proposing a panel, please include information about:** What panel topic you want to partake in? What specific theme do you want to present during the Panel discussion? Do you want to moderate? Do you have other panel members that have agreed to do this with you? 
 </p>
 <p align="justify">
-During the submission process you will be asked about your aplication to possibly get a [Participant mini-grant](/access.md/#mini-grant).
+During the submission process you will if you would like to apply for a [Participant mini-grant](/access.md/#mini-grant).
 </p>
 {::options parse_block_html="false" /}
 <p align="justify">
-After the submission process you will receive a confirmation when your submission has been recorded.
+You will receive a confirmation once your submission has been received.
 </p>
 
 <figure class="video_container">
