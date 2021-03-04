@@ -3,7 +3,7 @@ layout: page
 title: Review Proposals
 ---
 <p align="justify">
-All talk proposals will undergo open community review before decisions are made on what material to include in our program. The final selection of presentations is determined by the OS-SIG through a combination of community interest, relatedness to our [formats](formats.md/), and diversity of representation.
+All talk proposals will undergo open community review before decisions are made on what material to include in our program. The final selection of presentations is determined by the OS-SIG through a combination of community interest, relatedness to our [formats](/formats.md/), and diversity of representation.
 </p>
 <p align="justify">
 You are welcome to review all talk submissions on our <a href="https://github.com/ohbm/osr2021/issues">GitHub repository</a>. We also invite you to comment on items tagged as "emergent", and get in contact with the organisers if you are interested in joining the discussion.
