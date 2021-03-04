@@ -6,7 +6,7 @@ title: Accessibility
 
 
 
-### Research is only reproducible if it is available to and accessible by all
+### Research is only reproducible if it is available to and accessible by all.
 
 <!--img align="right" src="../img/undraw_enter_uhqk.png" alt="future" width="40%"-->
 
@@ -51,7 +51,7 @@ We also encourage our zero-cost registrants to use [Mattermost](https://mattermo
 <br>
 ## Participant mini-grants
 <p align="justify">
-We are pleased to provide a limited number of participant mini-grants of up to 100 USD. We will consider mini-grant applications from both OHBM registrants and zero-cost registrants. These mini-grants are intended to support engagement and participation in the OSR. These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
+We are pleased to provide a limited number (N = 20) of participant mini-grants of up to 100 USD. We will consider mini-grant applications from both OHBM registrants and zero-cost registrants. These mini-grants are intended to support engagement and participation in the OSR. These are ideal to assist with buying essential online communication equipment, data packages, or related expenses.
 </p>
 {::options parse_block_html="true" /}
 <p align="justify">
