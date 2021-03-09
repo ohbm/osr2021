@@ -6,6 +6,53 @@ title: Volunteers
 The core OSR team were elected as part of the [OHBM Open Science Special Interest Group](https://ossig.netlify.app/#OSSIG_team) (OS-SIG).
 
 
+<br>
+
+
+<table class="people">
+    <tr class="people">
+        <td class="people">
+            <a style="display:block; color:#05323F" href="../cassandra_gould_van_praag">
+            <aside>
+            <header>
+                <img src="https://github.com/ohbm/ossig/tree/master/themes/hugo-fresh/static/images/illustrations/faces/2021/eva_alonso_ortiz.jpg" style="height:200px; border-radius:50%;">
+                <h3>Eva Alonso Ortiz.jpg</h3>
+                <h4>OSR Co-chair</h4>
+                <h6>Department of Electrical Engineering, Polytechnique Montreal</h6>
+                <h4>
+                <a target="_blank" href="https://twitter.com/EvaAlonsoOrtiz"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://github.com/evaalonsoortiz"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://www.evaalonsoortiz.com/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                </h4>
+                <br>
+            </header>
+            </aside>
+            </a>
+        </td>
+        <td class="people">
+            <a style="display:block; color:#05323F" href="../Gabriel_Gonzalez_Escamilla">
+            <aside>
+            <header>
+                <img src="https://github.com/ohbm/ossig/tree/master/themes/hugo-fresh/static/images/illustrations/faces/2021/gabriel_gonzalez_escamilla.jpg" style="height:200px; border-radius:50%;">
+                <h3>Gabriel Gonález Escamilla</h3>
+                <h4>OSR Co-chair</h4>
+                <h6>Department of Neurology, University medical center of the </h6>
+                <h4>
+                <a target="_blank" href="https://twitter.com/NeuroGabriel"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://github.com/GGonEsc"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                <a target="_blank" href="https://multimodalneuroimaging.wordpress.com/about/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
+                </h4>
+                <br>
+            </header>
+            </aside>
+            </a>
+        </td>
+    </tr>
+</table>
+
+
+
+
 ### A special thanks to our volunteers!
 Our call for volunteers to help build a great Open Science Room was met with enthusiasm! We now have multiple teams up and running and we're very excited about what's next. We are so grateful to be part of such an engaging and helpful community. Thank you all!
 
