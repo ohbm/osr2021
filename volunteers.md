@@ -12,11 +12,11 @@ The core OSR team were elected as part of the [OHBM Open Science Special Interes
 <table class="people">
     <tr class="people">
         <td class="people">
-            <a style="display:block; color:#05323F" href="../cassandra_gould_van_praag">
+            <a style="display:block; color:#05323F" href="../eva_alonso_ortiz">
             <aside>
             <header>
                 <img src="https://github.com/ohbm/ossig/tree/master/themes/hugo-fresh/static/images/illustrations/faces/2021/eva_alonso_ortiz.jpg" style="height:200px; border-radius:50%;">
-                <h3>Eva Alonso Ortiz.jpg</h3>
+                <h3>Eva Alonso Ortiz</h3>
                 <h4>OSR Co-chair</h4>
                 <h6>Department of Electrical Engineering, Polytechnique Montreal</h6>
                 <h4>
