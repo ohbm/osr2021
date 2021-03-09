@@ -34,7 +34,7 @@ The core OSR team were elected as part of the [OHBM Open Science Special Interes
             <aside>
             <header>
                 <img src="https://github.com/ohbm/ossig/tree/master/themes/hugo-fresh/static/images/illustrations/faces/2021/gabriel_gonzalez_escamilla.jpg" style="height:200px; border-radius:50%;">
-                <h3>Gabriel Gonález Escamilla</h3>
+                <h3>Gabriel González Escamilla</h3>
                 <h4>OSR Co-chair</h4>
                 <h6>Department of Neurology, University medical center of the </h6>
                 <h4>
