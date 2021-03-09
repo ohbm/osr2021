@@ -36,7 +36,7 @@ The core OSR team were elected as part of the [OHBM Open Science Special Interes
                 <img src="https://github.com/ohbm/ossig/tree/master/themes/hugo-fresh/static/images/illustrations/faces/2021/gabriel_gonzalez_escamilla.jpg" style="height:200px; border-radius:50%;">
                 <h3>Gabriel González Escamilla</h3>
                 <h4>OSR Co-chair</h4>
-                <h6>Department of Neurology, University medical center of the </h6>
+                <h6>Department of Neurology, University medical center of the Johannes Gutenber University Mainz, Mainz</h6>
                 <h4>
                 <a target="_blank" href="https://twitter.com/NeuroGabriel"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://github.com/GGonEsc"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
