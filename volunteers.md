@@ -33,7 +33,7 @@ The core OSR team were elected as part of the [OHBM Open Science Special Interes
             <a style="display:block; color:#05323F" href="../Gabriel_Gonzalez_Escamilla">
             <aside>
             <header>
-                <img src="/img/team/gabriel_gonzalez_escamilla.jpg" style="height:200px; border-radius:50%;">
+                <img src="../img/team/gabriel_gonzalez_escamilla.jpg" style="height:200px; border-radius:50%;">
                 <h3>Gabriel González Escamilla</h3>
                 <h4>OSR Co-chair</h4>
                 <h6>Department of Neurology, University medical center of the Johannes Gutenber University Mainz, Mainz</h6>
