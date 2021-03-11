@@ -3,10 +3,10 @@ Name: Eva Alonso Ortiz
 Title: Dr
 Pronouns: She/her
 Job: Research scientist
-Affiliation: Inria, Univ Rennes, CNRS, Inserm
-ShortBio: Camille Maumet is a research scientist in brain imaging data sciences, focusing on variability in analytical pipelines and its implication to reusing of open datasets.
-Website: http://camillemaumet.com/
+Affiliation: Polytechnique Montreal, Department of Electrical Engineering
+ShortBio: Eva Alonso Ortiz Eva is a postdoc working in the @PolyNeuro lab, developing imaging methods for spinal cord MRI. In her spare time she bikes, skates and kayaks along the Rideau canal next to her home, followed by a good pint of local craft beer!
+Website: https://www.evaalonsoortiz.com/
 Twitter: EvaAlonsoOrtiz
-Github: Polytechnique Montreal, Department of Electrical Engineering
+Github: evaalonsoortiz
 layout: speaker_page
 ---
