@@ -12,10 +12,10 @@ The core OSR team were elected as part of the [OHBM Open Science Special Interes
 <table class="people">
     <tr class="people">
         <td class="people">
-            <a style="display:block; color:#05323F" href="../eva_alonso_ortiz">
+            <a style="display:block; color:#05323F" href="../_team/eva_alonso_ortiz">
             <aside>
             <header>
-                <img src="../img/team/eva_alonso_ortiz.jpg" style="height:200px; border-radius:50%;">
+                <img src="../_team/eva_alonso_ortiz.jpg" style="height:200px; border-radius:50%;">
                 <h3>Eva Alonso Ortiz</h3>
                 <h4>OSR Co-chair</h4>
                 <h6>Department of Electrical Engineering, Polytechnique Montreal</h6>
@@ -30,10 +30,10 @@ The core OSR team were elected as part of the [OHBM Open Science Special Interes
             </a>
         </td>
         <td class="people">
-            <a style="display:block; color:#05323F" href="../Gabriel_Gonzalez_Escamilla">
+            <a style="display:block; color:#05323F" href="../_team/Gabriel_Gonzalez_Escamilla">
             <aside>
             <header>
-                <img src="../img/team/gabriel_gonzalez_escamilla.jpg" style="height:200px; border-radius:50%;">
+                <img src="../_team/gabriel_gonzalez_escamilla.jpg" style="height:200px; border-radius:50%;">
                 <h3>Gabriel González Escamilla</h3>
                 <h4>OSR Co-chair</h4>
                 <h6>Department of Neurology, University medical center of the Johannes Gutenber University Mainz, Mainz</h6>
