@@ -44,13 +44,13 @@ avatar: "/img/OSR_logo_avatar.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#ffffff"
+navbar-col: "#FFFFF"
 navbar-text-col: "#7A1C23"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#E14843"
 hover-col: "#93B6BD"
-footer-col: "#d6f5f5"
+footer-col: "#D6F5F5"
 footer-text-col: "#C4CBC0"
 footer-link-col: "#569AAA"
 
@@ -79,16 +79,16 @@ social-network-links:
   github: ohbm
   twitter: OhbmOpen
 #  reddit: yourname
-#  linkedin: stephan-heunis-4b558154
+#  linkedin: Name
   email: "ohbm.osr@gmail.com"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  snapchat: yourname
+#  instagram: yourname
   youtube: channel/UChvSitFvqGDeA1y7MJs4CGQ
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ohbm.github.io/osr"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ohbm.github.io/osr2021"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -125,7 +125,7 @@ url-pretty: "ohbm.github.io/osr"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: "fmrwhy"
+# disqus: "OSSIG-OSR"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
