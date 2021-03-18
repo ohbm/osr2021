@@ -62,9 +62,6 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 <p align="justify">
   **Educational sessions** will be 20 minute pre-recorded talks covering introductory level themes related to open science with the aim of introducing OSR participants to the ideas that motivate open science and/or to tools that help facilitate open science.
 </p>
-<p align="justify">
-  Educational sessions will be pre-recorded talks covering introductory level themes related to open science with the aim of introducing OSR participants to the ideas that motivate open science and/or to tools that help facilitate open science.
-</p>
 {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
 <p align="justify">
