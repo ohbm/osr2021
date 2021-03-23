@@ -21,7 +21,7 @@ Sensitive personal information will NOT be made public.**
 </p>
 <p align="justify">
 Please **DO NOT** use the submit form if there is any reason why your proposal should not be made available for open review.
-In these instances, please [contact us](/contact.md/) supplying the theme (if relevant), format and a short description of your talk.
+In these instances, please [contact us](/contact.md/) supplying the [topic](/submit.md/#panel) (if relevant), timezone, and a short description of your proposed talk.
 Please comment that you do not wish for your proposal to be made public.
 You do not need to disclose a reason for this.
 </p>
