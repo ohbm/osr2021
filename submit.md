@@ -71,6 +71,9 @@ If you do not have a GitHub username, we invite you to follow the instructions a
 **If you are proposing a panel, please include information about:** What panel topic you want to partake in? What specific theme do you want to present during the Panel discussion? Do you want to moderate? Do you have other panel members that have agreed to do this with you? 
 </p>
 <p align="justify">
+The timeslots for **Emergent sessions** will have a "first come, first served" basis and can be boocked via [email](ohbmopenscience@gmail.com) only during the OSR in June. 
+</p>
+<p align="justify">
 During the submission process you will if you would like to apply for a [Participant mini-grant](/access.md/#mini-grant).
 </p>
 {::options parse_block_html="false" /}
