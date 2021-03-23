@@ -19,15 +19,14 @@ OSR sessions will have one of the following formats:
 <p align="justify">**Panel discussions** will be live and feature a host that will moderate a predetermined topic of discussion among a panel of invited speakers. Questions from the audience are encouraged (via chat feature) and will be transmitted to the panel by the host throughout the session.</p>
 <p align="justify">Panel discussions are pre-defined sessions on the following topics: </p>
 
-1.  topic1:
-    To be announced.
-2.  topic2: To be announced.
-3.  topic3: To be announced.
-4.  topic4: To be announced.
-5.  topic5: To be announced.
-6.  topic6: To be announced.
-7.  topic7: To be announced.
-8.  topic8: To be announced.
+1.  The future of open tools/technologies.
+2.  Challenges in open science.
+3.  Open Visualization: Practices and Challenges.
+4.  How to make a local OS initiative.
+5.  Building a career in the age of open-science.
+6.  Open-science and sustainability.
+7.  BIDS community discussion.
+8.  Ensuring open science is accessible.
 
 <div id='emergent'></div>
 <p align="justify">**Emergent sessions** are bookable in advance or during the meeting times allocated for emergent sessions. Emergent sessions can be booked by any registered participant in advance or at any point in the meeting, while there is space in the schedule. Submitted emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
