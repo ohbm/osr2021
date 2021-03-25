@@ -11,6 +11,10 @@ OSR sessions will have one of the following formats:
 - [Panel discussions](#panel)
 - [Emergent sessions](#emergent)
 
+
+<p align="justify">
+AS for the main OHBM conference, this years OSR will happen across different time zones: UTC, PDT, EDT, BST, CEST, CST, AEST. This is very relevant if you are planning to [submit a presentation to the OSR](/submit.md/)
+</p>
 <div id='educational'></div>
 {::options parse_block_html="true" /}
 <p align="justify">**Educational sessions** will be pre-recorded and broadcast according to our schedule. Speakers will be available for Q&A immediately following the broadcast of their sessions in at least two timezone hubs. You can also leave questions on pre-specified Mattermost channels and speakers will be encouraged to get back to you.
