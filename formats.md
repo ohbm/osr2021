@@ -22,7 +22,7 @@ OSR sessions will have one of the following formats:
 1.  The future of open tools/technologies.
 2.  Challenges in open science.
 3.  Open Visualization: Practices and Challenges.
-4.  How to make a local OS initiative.
+4.  How to start a local OS initiative.
 5.  Building a career in the age of open-science.
 6.  Open-science and sustainability.
 7.  BIDS community discussion.
