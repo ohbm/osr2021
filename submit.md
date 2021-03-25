@@ -68,7 +68,9 @@ If you do not have a GitHub username, we invite you to follow the instructions a
   **Panel discussions** will be 30 minute live discussions among a small group of panel members, mediated by a host. The discussions will cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues. You are choosing from panel topics that have already been established (see [OSR formats](/formats.md){:target="_blank"} for more information).
 </p>
 <p align="justify">
-**If you are proposing a panel, please include information about:** What panel topic you want to partake in? What specific theme do you want to present during the Panel discussion? Do you want to moderate? Do you have other panel members that have agreed to do this with you? 
+**If you plan to participate in a panel, please include information about:** What panel topic you want to partake in? What specific theme do you want to present during the Panel discussion?  
+  
+  Please also let us know whether you would like to be a panelist or a moderator. Moderators will be asked to introduce the panel topic and prepare 2 questions which will be posed to each of the 4 panel speakers (2 rounds of questions for each speaker).
 </p>
 <p align="justify">
 The timeslots for **Emergent sessions** will have a "first come, first served" basis and can be boocked via [email](ohbmopenscience@gmail.com) only during the OSR in June. 
