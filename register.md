@@ -3,7 +3,9 @@ layout: page
 title: Register for the OSR!
 ---
 
+<p align="justify">
 **After registering, you will receive a confirmation email. This will contain the passwords for joining.**
+</p>
 
 **Registration here is not necessary if you have already registered for the main OHBM meeting.** 
 <p align="justify">
