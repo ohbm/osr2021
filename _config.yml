@@ -25,7 +25,7 @@ navbar-links:
     - Speakers: "speakers"
     - Formats: "formats"
     - Submit: "submit"
-    - Review: "review"
+    # - Review: "review"
   Register: "register"
   Accessibility: "access"
   Volunteers: "volunteers"
