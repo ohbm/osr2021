@@ -30,7 +30,7 @@ As for the main OHBM conference, this years OSR will happen across different tim
       Time zone for live discussion and Q&A: 21st June at 18:00 hrs UTC
 3.  **Open Visualization: Practices and Challenges.**  
       Time zone for live discussion and Q&A: to be assigned
-4.  **How to start a local OS initiative.** 
+4.  **How to start a local OS initiative.**  
       Time zone for live discussion and Q&A: to be assigned
 5.  **Building a career in the age of open-science.**  
       Time zone for live discussion and Q&A: PDT
