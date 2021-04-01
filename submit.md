@@ -3,7 +3,6 @@ layout: page
 title: Submit
 ---
 
-- [Community feedback](#feedback)
 - [Submission](#submission)
 
 ---
