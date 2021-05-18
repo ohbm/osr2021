@@ -16,7 +16,7 @@ title: Submit
 </p>
 {::options parse_block_html="false" /}
 <p align="justify">
-  **Please notice that applications for educational sessions and panel discussions are closed now!**
+  **Please notice that applications for educational sessions and panel discussions are now closed**
   Still, you can apply for hosting an emergen session
 </p>
 <p align="justify">
