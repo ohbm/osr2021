@@ -13,10 +13,12 @@ title: Submit
 {::options parse_block_html="true" /}
 <p align="justify">
   Before starting your submission make sure you are familiar with the [OSR formats](/formats.md){:target="_blank"}.
+</p>
+{::options parse_block_html="false" /}
+<p align="justify">
   **Please notice that applications for educational sessions and panel discussions are closed now!**
   Still, you can apply for hosting an emergen session
 </p>
-{::options parse_block_html="false" /}
 <p align="justify">
   Also, take into account the following:
 </p>
