@@ -31,7 +31,7 @@ As for the main OHBM conference, this years OSR will happen across different tim
 3.  **Saving time and resources: Open-science and sustainability.**  
       Time zone for live discussion and Q&A: Monday 21/6 5:30PM UTC  
 4.  **Challenges in open science.**  
-      Time zone for live discussion and Q&A: 21st Monday 21/6 5PM UTC
+      Time zone for live discussion and Q&A: Monday 21/6 5PM UTC
 5.  **Ensuring open science is accessible.**  
       Time zone for live discussion and Q&A: Monday 21/6 1AM UTC
 
