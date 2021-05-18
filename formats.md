@@ -25,15 +25,15 @@ As for the main OHBM conference, this years OSR will happen across different tim
 <p align="justify">Panel discussions are pre-defined sessions on the following topics: </p>
 
 1.  **The future of open tools/technologies.**  
-      Time zone for live discussion and Q&A: UTC
+      Time zone for live discussion and Q&A: Tuesday 22/6 5PM UTC
 2.  **Building a career in the age of open-science.**  
-      Time zone for live discussion and Q&A: PDT  
+      Time zone for live discussion and Q&A: Tuesday 22/6 5:30PM UTC  
 3.  **Saving time and resources: Open-science and sustainability.**  
-      Time zone for live discussion and Q&A: PDT  
+      Time zone for live discussion and Q&A: Monday 21/6 5:30PM UTC  
 4.  **Challenges in open science.**  
-      Time zone for live discussion and Q&A: 21st June at 18:00 hrs UTC
+      Time zone for live discussion and Q&A: 21st Monday 21/6 5PM UTC
 5.  **Ensuring open science is accessible.**  
-      Time zone for live discussion and Q&A: to be assigned
+      Time zone for live discussion and Q&A: Monday 21/6 1AM UTC
 
 <div id='emergent'></div>
 <p align="justify">**Emergent sessions** are bookable in advance or during the meeting times allocated for emergent sessions. Emergent sessions can be booked by any registered participant in advance or at any point in the meeting, while there is space in the schedule. Submitted emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
