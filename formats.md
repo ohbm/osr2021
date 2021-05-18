@@ -26,19 +26,13 @@ As for the main OHBM conference, this years OSR will happen across different tim
 
 1.  **The future of open tools/technologies.**  
       Time zone for live discussion and Q&A: UTC
-2.  **Challenges in open science.**  
+2.  **Building a career in the age of open-science.**  
+      Time zone for live discussion and Q&A: PDT  
+3.  **Saving time and resources: Open-science and sustainability.**  
+      Time zone for live discussion and Q&A: PDT  
+4.  **Challenges in open science.**  
       Time zone for live discussion and Q&A: 21st June at 18:00 hrs UTC
-3.  **Open Visualization: Practices and Challenges.**  
-      Time zone for live discussion and Q&A: to be assigned
-4.  **How to start a local OS initiative.**  
-      Time zone for live discussion and Q&A: to be assigned
-5.  **Building a career in the age of open-science.**  
-      Time zone for live discussion and Q&A: PDT
-6.  **Open-science and sustainability.**  
-      Time zone for live discussion and Q&A: 21st June at 18:30 hrs UTC
-7.  **BIDS community discussion.**  
-      Time zone for live discussion and Q&A: to be assigned
-8.  **Ensuring open science is accessible.**  
+5.  **Ensuring open science is accessible.**  
       Time zone for live discussion and Q&A: to be assigned
 
 <div id='emergent'></div>
