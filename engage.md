@@ -17,11 +17,11 @@ title: Engage
   Core skills: crowdcast, manage the chat and keep an eye on code of conduct  
   Dates: 21/6 - 25/6  
   Tasks:  
-  * Educational sessions: pre-recorded video + live Q&A.  
-  * Start Educational recording at the scheduled time.  
-  * Monitor the chat for questions (chat will come in through sparkle and crowdcast independently): relevant for the live Q&A only.  
-  * Repeat the questions to the speakers at during the Q&A session.  
-  * Thank the speaker and conclude the session: relevant or the live Q&A only.
+    - Educational sessions: pre-recorded video + live Q&A.  
+    - Start Educational recording at the scheduled time.  
+    - Monitor the chat for questions (chat will come in through sparkle and crowdcast independently): relevant for the live Q&A only.  
+    - Repeat the questions to the speakers at during the Q&A session.  
+    - Thank the speaker and conclude the session: relevant or the live Q&A only.
 </p>
 <p align="justify">
 **Panel discussio manager (live sessions)**  
@@ -29,11 +29,11 @@ title: Engage
   Core skills: crowdcast, manage the chat and keep an eye on code of conduct.  
   Dates: 21/6 - 25/6  
   Tasks :  
-     - Welcome the moderator and panelists to the stage before the start of the session, answer their technical questions, if any. You are there as the contact person for technical support during the session and to make sure everything runs on time.  
-     - Start the recording.  
-     - Monitor the chat for questions (chat will come in through sparkle and crowdcast independently): repeat these questions to the moderator at the end of the panel discussion if time permits.  
-     - Thank the speaker and conclude the session. Stop the recording.  
-     - Play the recorded session on the scheduled rebroadcast day.
+    - Welcome the moderator and panelists to the stage before the start of the session, answer their technical questions, if any. You are there as the contact person for technical support during the session and to make sure everything runs on time.  
+    - Start the recording.  
+    - Monitor the chat for questions (chat will come in through sparkle and crowdcast independently): repeat these questions to the moderator at the end of the panel discussion if time permits.  
+    - Thank the speaker and conclude the session. Stop the recording.  
+    - Play the recorded session on the scheduled rebroadcast day.
 </p>
 <p align="justify">
 **Emergent Session Manager (live sessions, booked “on the fly”)**  
