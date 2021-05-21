@@ -11,6 +11,7 @@ title: Engage
 
 
 ## Roles
+{::options parse_block_html="true" /}
 <p align="justify">
 **Educational Session Managers (pre-recorded sessions)** 
   Timezone: America/Europe and America/Asia
@@ -86,6 +87,8 @@ Tasks
   Tasks:
     - Monitor ongoing registrations and send the relevant login info the the registrants
 
+</p>
+<p align="justify">
 
 **Streaming management**
   Timezone: America/Europe and America/Asia
@@ -95,9 +98,8 @@ Tasks
     - Setup live stream for Educational and Panel session so that they appear on youtube 
 
 </p>
-<p align="justify">
-More text
-</p>
+{::options parse_block_html="false" /}
+
 <br>
 
 ## Volunteering
