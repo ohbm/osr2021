@@ -25,7 +25,7 @@ As for the main OHBM conference, this years OSR will happen across different tim
 <p align="justify">Panel discussions are pre-defined sessions on the following topics: </p>
 
 1.  **The future of open tools/technologies.**  
-      Time zone for live discussion and Q&A: Tuesday 22/6 5PM UTC
+      Time zone for live discussion and Q&A: Tuesday 22/6 5PM UTC  
 2.  **Building a career in the age of open-science.**  
       Time zone for live discussion and Q&A: Tuesday 22/6 5:30PM UTC  
 3.  **Saving time and resources: Open-science and sustainability.**  
