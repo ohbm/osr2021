@@ -59,42 +59,42 @@ Note: Submitted emergent requests will be briefly reviewed by the OSR team for a
 </p>
 <p align="justify">
 **Website updates**  
-Core skills: github/ html 
-Dates 21/6 - 25/6
-Tasks
+Core skills: github/html  
+Dates 21/6 - 25/6  
+Tasks:  
     - Put the OSR schedule on the website.
 </p>
 <p align="justify">
 **Technical video editing support**  
-  Core skills: any video editing software (ex: iMovie)
-  Dates 1/6 - 15/6
-  Tasks:
-    - Review/watch videos to ensure they meet the appropriate standards/guidelines.
+  Core skills: any video editing software (ex: iMovie)  
+  Dates 1/6 - 15/6  
+  Tasks:  
+    - Review/watch videos to ensure they meet the appropriate standards/guidelines.  
     - Stitch pre-recorded educational videos together (2 videos will be broadcast per session) with a slice advertising our sponsors between the two videos.
 </p>
 <p align="justify">
 **Social event planning**  
-  Core skills: gathertown
-  Dates 1/6 - 25/6
-  Tasks:
-    - Create/design a social event room in gathertown.
-    - Coordinate with the social media volunteer to advertise the event.
-    - Coordinate with the website volunteer to put the event on the website schedule.
-    - Monitor compliance with the code of conduct during the event.
+  Core skills: gathertown  
+  Dates 1/6 - 25/6  
+  Tasks:  
+    - Create/design a social event room in gathertown.  
+    - Coordinate with the social media volunteer to advertise the event.  
+    - Coordinate with the website volunteer to put the event on the website schedule.  
+    - Monitor compliance with the code of conduct during the event.  
 </p>
 <p align="justify">
 **OSR registration communication**  
-  Core skills: microsoft forms
-  Dates 16/6 - 25/6
-  Tasks:
+  Core skills: microsoft forms  
+  Dates 16/6 - 25/6  
+  Tasks:  
     - Monitor ongoing registrations and send the relevant login info the the registrants.
 </p>
 <p align="justify">
 **Streaming management**  
-  Timezone: America/Europe and America/Asia
-  Core skills: youtube
-  Dates 21/6 - 25/6
-  Tasks:
+  Timezone: America/Europe and America/Asia  
+  Core skills: youtube  
+  Dates 21/6 - 25/6  
+  Tasks:  
     - Setup live stream for Educational and Panel session so that they appear on youtube.
 </p>
 {::options parse_block_html="false" /}
