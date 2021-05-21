@@ -11,7 +11,7 @@ title: Engage
 
 
 ## Roles
-{::options parse_block_html="true" /}
+
 <p align="justify">
 **Educational Session Managers (pre-recorded sessions)** 
   Timezone: America/Europe and America/Asia
@@ -24,6 +24,9 @@ title: Engage
     - Repeat the questions to the speakers at during the Q&A session
     - Thank the speaker and conclude the session: relevant or the live Q&A only
 
+</p>
+<p align="justify">
+
 **Panel discussio manager (live sessions)**
   Timezone: America/Europe and America/Asia
   Core skills: crowdcast, manage the chat and keep an eye on code of conduct
@@ -35,6 +38,8 @@ title: Engage
     - Thank the speaker and conclude the session. Stop the recording.
     - Play the recorded session on the scheduled rebroadcast day
 
+</p>
+<p align="justify">
 
 **Emergent Session Manager (live sessions, booked “on the fly”)** 
   Timezone: America/Europe and America/Asia
@@ -47,8 +52,13 @@ title: Engage
     - Coordinate with the website volunteer so that the emergent sessions appear on the website schedule
     - Coordinate with the social media engagement volunteer so that the emergent session gets tweeted
 
+</p>
+<p align="justify">
+
 Note: Submitted emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule.
 
+</p>
+<p align="justify">
 
 **Social media engagement**
   Core skills: Twitter
@@ -56,6 +66,8 @@ Note: Submitted emergent requests will be briefly reviewed by the OSR team for a
   Tasks:
     - Tweet announcements for each session taking place during the OSR
 
+</p>
+<p align="justify">
 
 **Website updates**
 Core skills: github/ html 
@@ -63,12 +75,18 @@ Dates 21/6 - 25/6
 Tasks
     - Put the OSR schedule on the website
 
+</p>
+<p align="justify">
+
 **Technical video editing support**
   Core skills: any video editing software (ex: iMovie)
   Dates 1/6 - 15/6
   Tasks:
     - Review/watch videos to ensure they meet the appropriate standards/guidelines
     - Stitch pre-recorded educational videos together (2 videos will be broadcast per session) with a slice advertising our sponsors between the two videos
+
+</p>
+<p align="justify">
 
 **Social event planning**
   Core skills: gathertown
@@ -80,6 +98,8 @@ Tasks
     - Coordinate with the website volunteer to put the event on the website schedule
     - Monitor compliance with the code of conduct during the event
 
+</p>
+<p align="justify">
 
 **OSR registration communication**
   Core skills: microsoft forms
