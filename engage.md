@@ -25,6 +25,8 @@ title: Engage
     - Thank the speaker and conclude the session: relevant or the live Q&A only
 
 </p>
+{::options parse_block_html="false" /}
+
 <p align="justify">
 
 **Panel discussio manager (live sessions)**
@@ -118,7 +120,6 @@ Tasks
     - Setup live stream for Educational and Panel session so that they appear on youtube 
 
 </p>
-{::options parse_block_html="false" /}
 
 <br>
 
