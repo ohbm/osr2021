@@ -29,8 +29,8 @@ navbar-links:
   Register: "register"
   Accessibility: "access"
   Volunteering: 
-    - "Engage"
-    - "Volunteers"
+    - Engage: "Engage"
+    - Volunteers: "Volunteers"
   FAQ: "faq"
   
 
