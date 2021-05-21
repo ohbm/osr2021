@@ -12,8 +12,7 @@ title: Engage
 ## Roles
 {::options parse_block_html="true" /}
 
-<p align="justify">
-**Educational Session Managers (pre-recorded sessions)** 
+<p align="justify">**Educational Session Managers (pre-recorded sessions)** </p>
   Timezone: America/Europe and America/Asia
   Core skills: crowdcast, manage the chat and keep an eye on code of conduct
   Dates: 21/6 - 25/6
