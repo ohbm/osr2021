@@ -28,7 +28,9 @@ navbar-links:
     # - Review: "review"
   Register: "register"
   Accessibility: "access"
-  Volunteers: "volunteers"
+  Volunteers: 
+    - "Get involved"
+    - "Volunteers"
   FAQ: "faq"
   
 
