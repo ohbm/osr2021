@@ -35,7 +35,7 @@ title: Engage
     - Play the recorded session on the scheduled rebroadcast day
 
 
-**Emergent Session Managers (live sessions, booked “on the fly”)** 
+**Emergent Session Manager (live sessions, booked “on the fly”)** 
   Timezone: America/Europe and America/Asia
   Core skills: crowdcast, keep an eye on code of conduct, website skills
   Dates: 21/6 - 25/6
@@ -49,54 +49,50 @@ title: Engage
 Note: Submitted emergent requests will be briefly reviewed by the OSR team for appropriate content, and details communicated regarding how to book a slot in our schedule.
 
 
-Social media engagement
-Core skills: Twitter
-Dates 21/6 - 25/6
-Number of volunteers: 1-2
-Tasks
-Tweet announcements for each session taking place during the OSR
+**Social media engagement**
+  Core skills: Twitter
+  Dates 21/6 - 25/6
+  Tasks:
+    - Tweet announcements for each session taking place during the OSR
 
 
-Website
+**Website updates**
 Core skills: github/ html 
 Dates 21/6 - 25/6
-Number of volunteers: 1-2
 Tasks
-Put the OSR schedule on the website
+    - Put the OSR schedule on the website
 
-Technical video editing support
-Core skills: any video editing software (ex: iMovie)
-Dates 1/6 - 15/6
-Number of volunteers: 1 maybe 2
-Tasks
-Review/watch videos to ensure they meet the appropriate standards/guidelines
-Stitch pre-recorded educational videos together (2 videos will be broadcast per session) with a slice advertising our sponsors between the two videos
+**Technical video editing support**
+  Core skills: any video editing software (ex: iMovie)
+  Dates 1/6 - 15/6
+  Tasks:
+    - Review/watch videos to ensure they meet the appropriate standards/guidelines
+    - Stitch pre-recorded educational videos together (2 videos will be broadcast per session) with a slice advertising our sponsors between the two videos
 
-Social event planning
-Core skills: gathertown
-Dates 1/6 - 25/6
-Number of volunteers: 1 maybe 2 
-Tasks
-Create/design a social event room in gathertown
-Coordinate with the social media volunteer to advertise the event
-Coordinate with the website volunteer to put the event on the website schedule
-Monitor compliance with the code of conduct during the event
-
-
-OSR registration communication
-Core skills: microsoft forms
-Dates 16/6 - 25/6
-Number of volunteers: 1 
-Tasks
-Monitor ongoing registrations and send the relevant login info the the registrants
+**Social event planning**
+  Core skills: gathertown
+  Dates 1/6 - 25/6
+  Number of volunteers: 1 maybe 2 
+  Tasks:
+    - Create/design a social event room in gathertown
+    - Coordinate with the social media volunteer to advertise the event
+    - Coordinate with the website volunteer to put the event on the website schedule
+    - Monitor compliance with the code of conduct during the event
 
 
-YouTube channel management/streaming Timezone: America/Europe and America/Asia
-Core skills: youtube
-Dates 21/6 - 25/6
-Number of volunteers: 2 (1 per time zone)
-Tasks
-Setup live stream for Educational and Panel session so that they appear on youtube 
+**OSR registration communication**
+  Core skills: microsoft forms
+  Dates 16/6 - 25/6
+  Tasks:
+    - Monitor ongoing registrations and send the relevant login info the the registrants
+
+
+**Streaming management**
+  Timezone: America/Europe and America/Asia
+  Core skills: youtube
+  Dates 21/6 - 25/6
+  Tasks:
+    - Setup live stream for Educational and Panel session so that they appear on youtube 
 
 </p>
 <p align="justify">
