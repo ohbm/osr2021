@@ -10,6 +10,7 @@ title: Engage
 
 
 ## Roles
+{::options parse_block_html="true" /}
 
 <p align="justify">
 **Educational Session Managers (pre-recorded sessions)** 
