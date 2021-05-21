@@ -12,7 +12,7 @@ title: Engage
 ## Roles
 {::options parse_block_html="true" /}
 
-<p align="justify">**Educational Session Managers (pre-recorded sessions)** </p>
+<p align="justify">**Educational Session Managers (pre-recorded sessions)**  
   Timezone: America/Europe and America/Asia
   Core skills: crowdcast, manage the chat and keep an eye on code of conduct
   Dates: 21/6 - 25/6
@@ -22,30 +22,29 @@ title: Engage
      - Monitor the chat for questions (chat will come in through sparkle and crowdcast independently): relevant for the live Q&A only
      - Repeat the questions to the speakers at during the Q&A session
      - Thank the speaker and conclude the session: relevant or the live Q&A only
-
-
+</p>
 <p align="justify">
 **Panel discussio manager (live sessions)**  
-  Timezone: America/Europe and America/Asia
-  Core skills: crowdcast, manage the chat and keep an eye on code of conduct.
-  Dates: 21/6 - 25/6
-  Tasks :
-     - Welcome the moderator and panelists to the stage before the start of the session, answer their technical questions, if any. You are there as the contact person for technical support during the session and to make sure everything runs on time.
-     - Start the recording
-     - Monitor the chat for questions (chat will come in through sparkle and crowdcast independently): repeat these questions to the moderator at the end of the panel discussion if time permits
-     - Thank the speaker and conclude the session. Stop the recording.
+  Timezone: America/Europe and America/Asia  
+  Core skills: crowdcast, manage the chat and keep an eye on code of conduct.  
+  Dates: 21/6 - 25/6  
+  Tasks :  
+     - Welcome the moderator and panelists to the stage before the start of the session, answer their technical questions, if any. You are there as the contact person for technical support during the session and to make sure everything runs on time.  
+     - Start the recording.  
+     - Monitor the chat for questions (chat will come in through sparkle and crowdcast independently): repeat these questions to the moderator at the end of the panel discussion if time permits.  
+     - Thank the speaker and conclude the session. Stop the recording.  
      - Play the recorded session on the scheduled rebroadcast day.
 </p>
 <p align="justify">
 **Emergent Session Manager (live sessions, booked “on the fly”)**  
-  Timezone: America/Europe and America/Asia
-  Core skills: crowdcast, keep an eye on code of conduct, website skills.
-  Dates: 21/6 - 25/6
-  Tasks:
-    - Monitor the emergent session requests that come in during the meeting .
-    - Reserve/schedule a time for the sessions and start the meeting at their specified time.
-    - Make sure they conclude their meeting at their specified time.
-    - Coordinate with the website volunteer so that the emergent sessions appear on the website schedule.
+  Timezone: America/Europe and America/Asia  
+  Core skills: crowdcast, keep an eye on code of conduct, website skills  
+  Dates: 21/6 - 25/6  
+  Tasks:  
+    - Monitor the emergent session requests that come in during the meeting.  
+    - Reserve/schedule a time for the sessions and start the meeting at their specified time.  
+    - Make sure they conclude their meeting at their specified time.  
+    - Coordinate with the website volunteer so that the emergent sessions appear on the website schedule.  
     - Coordinate with the social media engagement volunteer so that the emergent session gets tweeted.
 </p>
 <p align="justify">
@@ -53,9 +52,9 @@ Note: Submitted emergent requests will be briefly reviewed by the OSR team for a
 </p>
 <p align="justify">
 **Social media engagement**  
-  Core skills: Twitter
-  Dates 21/6 - 25/6
-  Tasks:
+  Core skills: Twitter  
+  Dates 21/6 - 25/6  
+  Tasks:  
     - Tweet announcements for each session taking place during the OSR.
 </p>
 <p align="justify">
