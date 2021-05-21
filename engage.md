@@ -27,7 +27,7 @@ title: Engage
 
 <p align="justify">
 
-**Panel discussio manager (live sessions)**
+**Panel discussio manager (live sessions)**  
   Timezone: America/Europe and America/Asia
   Core skills: crowdcast, manage the chat and keep an eye on code of conduct
   Dates: 21/6 - 25/6
@@ -41,7 +41,7 @@ title: Engage
 </p>
 <p align="justify">
 
-**Emergent Session Manager (live sessions, booked “on the fly”)** 
+**Emergent Session Manager (live sessions, booked “on the fly”)**  
   Timezone: America/Europe and America/Asia
   Core skills: crowdcast, keep an eye on code of conduct, website skills
   Dates: 21/6 - 25/6
@@ -60,7 +60,7 @@ Note: Submitted emergent requests will be briefly reviewed by the OSR team for a
 </p>
 <p align="justify">
 
-**Social media engagement**
+**Social media engagement**  
   Core skills: Twitter
   Dates 21/6 - 25/6
   Tasks:
@@ -69,7 +69,7 @@ Note: Submitted emergent requests will be briefly reviewed by the OSR team for a
 </p>
 <p align="justify">
 
-#**Website updates**
+#**Website updates**  
 Core skills: github/ html 
 Dates 21/6 - 25/6
 Tasks
@@ -78,7 +78,7 @@ Tasks
 </p>
 <p align="justify">
 
-**Technical video editing support**
+**Technical video editing support**  
   Core skills: any video editing software (ex: iMovie)
   Dates 1/6 - 15/6
   Tasks:
@@ -88,7 +88,7 @@ Tasks
 </p>
 <p align="justify">
 
-**Social event planning**
+**Social event planning**  
   Core skills: gathertown
   Dates 1/6 - 25/6
   Number of volunteers: 1 maybe 2 
@@ -101,7 +101,7 @@ Tasks
 </p>
 <p align="justify">
 
-**OSR registration communication**
+**OSR registration communication**  
   Core skills: microsoft forms
   Dates 16/6 - 25/6
   Tasks:
@@ -110,7 +110,7 @@ Tasks
 </p>
 <p align="justify">
 
-**Streaming management**
+**Streaming management**  
   Timezone: America/Europe and America/Asia
   Core skills: youtube
   Dates 21/6 - 25/6
