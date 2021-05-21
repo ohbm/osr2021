@@ -17,7 +17,7 @@ title: Engage
   Core skills: crowdcast, manage the chat and keep an eye on code of conduct  
   Dates: 21/6 - 25/6  
   Tasks:  
-    <li>Educational sessions: pre-recorded video + live Q&A.</li>  
+    - Educational sessions: pre-recorded video + live Q&A.  
     - Start Educational recording at the scheduled time.  
     - Monitor the chat for questions (chat will come in through sparkle and crowdcast independently): relevant for the live Q&A only.  
     - Repeat the questions to the speakers at during the Q&A session.  
