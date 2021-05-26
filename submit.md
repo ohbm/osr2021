@@ -26,10 +26,10 @@ title: Submit
 </p>
 {::options parse_block_html="true" /}
 <p align="justify">
-  **Emergent sessions** are live discussions among a small group of panel members, mediated by a host. The discussions may cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues. You are choosing from panel topics that have already been established (see [OSR formats](/formats.md){:target="_blank"} for more information).
+  **Emergent sessions** are live discussions among a small group of panel members, mediated by a host. The discussions may cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues.
 </p>
 <p align="justify">
-The timeslots for **Emergent sessions** will have a "first come, first served" basis and can be boocked via [email](ohbmopenscience@gmail.com) only during the OSR in June. 
+The timeslots for **Emergent sessions** will have a "first come, first served" basis and can be boocked via the form below during the OHBM and OSR in June. 
 </p>
 {::options parse_block_html="false" /}
 <p align="justify">
