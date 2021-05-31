@@ -9,14 +9,14 @@ We take our code of conduct very seriously & you should too! This code will be e
 
 All attendees, speakers, sponsors, and volunteers for Design & Content are required to agree to the event’s Code of Conduct. We are expecting cooperation from all participants to establish a safe environment for all.
 
-## NEED HELP?
+### NEED HELP?
 You can anonymously contact us using this [web page](https://www.humanbrainmapping.org/i4a/forms/index.cfm?id=129&pageid=3915&showTitle=1&widgetPreview=0&page_version=) hosted by the OHBM Executive Office, call +1 612-749-1154, or contact a member of OHBM’s Executive Office identified by staff ribbon on their badges or located behind the [registration desk at the Annual Meeting](https://ohbm.sparkle.space/in/information).
 
-#### THE QUICK VERSION
+## THE QUICK VERSION
 We are committed to provide a harassment-free conference experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, ethnicity, or religion (or lack thereof). It means, we encourage respectful and tolerant behaviour towards everyone at the OHBM and SIG activities. Harassment of conference participants is not allowed in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, or other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 
-#### THE MORE EXTENDED VERSION
+## THE MORE EXTENDED VERSION
 This Code of Conduct applies to all event venues and online activities managed by the Organization for Human Brain Mapping (OHBM) including the virtual meeting, afternoon and evening social events, and online content posted under OHBM hash tags. We expect our Code of Conduct to be honored by every member and/or participant of the OHBM community or person that formally or informally claims any affiliation with the OHBM. 
 This code is not exhaustive or complete. We ask community members to adhere to it as much in spirit as in letter to create a safe and positive experience for all. We expect attendees and sponsors to follow these rules at the conference, hackathon venues, special interest group venues, poster sessions, and conference-related social events.
 
