@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: minimal
 title: Code of conduct
 permalink: /osr_coc/
-isStaticPost: true
 ---
 
 
