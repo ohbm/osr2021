@@ -6,9 +6,6 @@ permalink: /osr_coc/
 
 
 <br>
-
-# Code of Conduct
-
 We take our code of conduct very seriously & you should too! This code will be enforced throughout the event.
 
 All attendees, speakers, sponsors, and volunteers for Design & Content are required to agree to the event’s Code of Conduct. We are expecting cooperation from all participants to establish a safe environment for all.
