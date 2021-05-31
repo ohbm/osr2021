@@ -6,7 +6,7 @@ permalink: /osr_coc/
 
 
 <br>
-We take our code of conduct very seriously & you should too! This code will be enforced throughout the event.
+We take our code of conduct very seriously & you should too! This code will be enforced throughout the event.  
 
 All attendees, speakers, sponsors, and volunteers for Design & Content are required to agree to the event’s Code of Conduct. We are expecting cooperation from all participants to establish a safe environment for all.
 
@@ -18,7 +18,7 @@ We are committed to provide a harassment-free conference experience for everyone
 
 
 ## THE MORE EXTENDED VERSION
-This Code of Conduct applies to all event venues and online activities managed by the Organization for Human Brain Mapping (OHBM) including the virtual meeting, afternoon and evening social events, and online content posted under OHBM hash tags. We expect our Code of Conduct to be honored by every member and/or participant of the OHBM community or person that formally or informally claims any affiliation with the OHBM. 
+This Code of Conduct applies to all event venues and online activities managed by the Organization for Human Brain Mapping (OHBM) including the virtual meeting, afternoon and evening social events, and online content posted under OHBM hash tags. We expect our Code of Conduct to be honored by every member and/or participant of the OHBM community or person that formally or informally claims any affiliation with the OHBM.  
 This code is not exhaustive or complete. We ask community members to adhere to it as much in spirit as in letter to create a safe and positive experience for all. We expect attendees and sponsors to follow these rules at the conference, hackathon venues, special interest group venues, poster sessions, and conference-related social events.
 
 ### Behavior That Will Not Be Tolerated
@@ -36,10 +36,10 @@ Harassment includes:
 -   Advocating for, or encouraging, any of the above behaviour
 
 We do not tolerate discrimination or harassment of conference participants and organizers. Participants asked to stop any harassing behaviour are expected to comply immediately.
-Sponsors are also subject to the anti-harassment policy. 
-If an attendee engages in harassing behaviour, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+Sponsors are also subject to the anti-harassment policy.   
+If an attendee engages in harassing behaviour, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.  
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
-We value your attendance. As such, conference staff will be happy to help participants or otherwise assist those experiencing harassment to feel safe for the duration of the conference. 
+We value your attendance. As such, conference staff will be happy to help participants or otherwise assist those experiencing harassment to feel safe for the duration of the conference.  
 You will not be asked to confront anyone, and we will not reveal your identity. Your report will be treated confidentially and will be investigated to the best of our ability and we will take whatever action possible to prevent a recurrence.
 
 ### Diversity Statement
