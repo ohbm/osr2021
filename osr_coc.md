@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: base
 title: Code of conduct
 permalink: /osr_coc/
 ---
