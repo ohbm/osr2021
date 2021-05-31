@@ -31,6 +31,7 @@ navbar-links:
   Volunteering: 
     - volunteer: "volunteer"
     - Volunteers: "volunteers"
+  CoC: "osrcoc"
   FAQ: "faq"
   
 
