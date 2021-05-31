@@ -13,7 +13,7 @@ All attendees, speakers, sponsors, and volunteers for Design & Content are requi
 You can anonymously contact us using this [web page](https://www.humanbrainmapping.org/i4a/forms/index.cfm?id=129&pageid=3915&showTitle=1&widgetPreview=0&page_version=) hosted by the OHBM Executive Office, call +1 612-749-1154, or contact a member of OHBM’s Executive Office identified by staff ribbon on their badges or located behind the [registration desk at the Annual Meeting](https://ohbm.sparkle.space/in/information).
 
 ## THE QUICK VERSION
-We are committed to provide a harassment-free conference experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, ethnicity, or religion (or lack thereof). It means, we encourage respectful and tolerant behaviour towards everyone at the OHBM and SIG activities. Harassment of conference participants is not allowed in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, or other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+We are committed to provide a harassment-free conference experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, ethnicity, or religion (or lack thereof). It means we encourage respectful and tolerant behaviour towards everyone at the OHBM and SIG activities. Harassment of conference participants is not allowed in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, or other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 
 ## THE MORE EXTENDED VERSION
@@ -23,7 +23,7 @@ This code is not exhaustive or complete. We ask community members to adhere to i
 ### Behavior That Will Not Be Tolerated
 
 Harassment includes: 
--   Offensive verbal comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion (or lack thereof)., 
+-   Offensive verbal comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion (or lack thereof). 
 -   Deliberate intimidation, stalking, following, harassing photography or recording.
 -   Sustained disruption of talks or other events.
 -   Inappropriate physical contact. 
