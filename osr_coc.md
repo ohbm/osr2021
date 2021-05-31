@@ -4,7 +4,7 @@ title: Code of conduct
 permalink: /osr_coc/
 ---
 
-<div class="text-justify">
+
 We take our code of conduct very seriously & you should too! This code will be enforced throughout the event.  
 
 All attendees, speakers, sponsors, and volunteers for Design & Content are required to agree to the event’s Code of Conduct. We are expecting cooperation from all participants to establish a safe environment for all.
@@ -54,4 +54,3 @@ While we do not assume OHBM members know the cultural practices of every ethnic 
 #### ACKNOWLEDGEMENTS
 This statement has drawn material from the [Ada Initiative Code of Conduct](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy), the [Apache Software Foundation Code of Conduct](https://www.apache.org/foundation/policies/conduct.html), the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), and the [OHBM code of conduct](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3912).
   
-</div>
