@@ -4,8 +4,6 @@ title: Code of conduct
 permalink: /osr_coc/
 ---
 
-
-<br>
 <p align="justify">
 We take our code of conduct very seriously & you should too! This code will be enforced throughout the event.  
 
