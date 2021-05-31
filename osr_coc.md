@@ -8,7 +8,8 @@ permalink: /osr_coc/
 We take our code of conduct very seriously & you should too! This code will be enforced throughout the event.
 
 All attendees, speakers, sponsors, and volunteers for Design & Content are required to agree to the event’s Code of Conduct. We are expecting cooperation from all participants to establish a safe environment for all.
-NEED HELP?
+
+## NEED HELP?
 You can anonymously contact us using this [web page](https://www.humanbrainmapping.org/i4a/forms/index.cfm?id=129&pageid=3915&showTitle=1&widgetPreview=0&page_version=) hosted by the OHBM Executive Office, call +1 612-749-1154, or contact a member of OHBM’s Executive Office identified by staff ribbon on their badges or located behind the [registration desk at the Annual Meeting](https://ohbm.sparkle.space/in/information).
 
 #### THE QUICK VERSION
