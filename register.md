@@ -4,7 +4,7 @@ title: Register for the OSR!
 ---
 
 
-**After registering, you will receive a confirmation email. This will contain the passwords for joining.**
+**Before the event, you will receive a confirmation email. This will contain the passwords for joining.**
 
 
 **Registration here is not necessary if you have already registered for the main OHBM meeting.** 
