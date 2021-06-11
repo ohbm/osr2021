@@ -32,7 +32,7 @@ navbar-links:
     - volunteer: "volunteer"
     - Volunteers: "volunteers"
   Code of Conduct: "osr_coc"
-  Sponsors: "sponsors"
+  # Sponsors: "sponsors"
   FAQ: "faq"
   
 
