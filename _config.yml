@@ -22,7 +22,7 @@ description: Open Science Room 2021
 navbar-links:
   Program:
     - Schedule: "schedule"
-    - Speakers: "speakers"
+    # - Speakers: "speakers"
     - Formats: "formats"
     - Submit: "submit"
     # - Review: "review"
