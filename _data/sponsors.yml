@@ -1,0 +1,12 @@
+-
+  group: "OSR Sponsors"
+  elements:
+    - {name: "OHBM", description: "Organization for Human Brain Mapping", link: "https://www.ohbmbrainmappingblog.com/", imageUrl: "OHBM_logo.svg"}
+    - {name: "OpenNeuro", description: "OpenNeuro", link: "https://openneuro.org/", imageUrl: "OpenNeuro_Logo.png"}
+    - {name: "qbin", description: "QUEBEC BIO-IMAGING NETWORK", link: "https://rbiq-qbin.qc.ca/Home", imageUrl: "qbin_logo.svg"}
+    - {name: "Mathworks", description: "", link: "https://de.mathworks.com/", imageUrl: "Mathworks_logo.svg"}
+
+-
+#  group: "With the support of"
+#  elements:
+#    - {name: "OHBM", description: "OHBM", link: "https://www.ohbmbrainmappingblog.com/", imageUrl: "ohbm_logo.jpeg"}
