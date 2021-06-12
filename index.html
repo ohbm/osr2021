@@ -21,24 +21,17 @@ bigimg:
 <!--  });-->
 <!--</script>-->
 
-<head>
-<script>
-</script>
-<style>
-#icons
-{
-    height:275px;
-    float:left;
-    position:relative;
-    box-shadow:2px -2px 10px 3px #888, inset 2px -2px 10px 3px #888;
+a {
+  width: 150px;
+  display: inline-block;
 }
-#icons:hover img
-{
-    height: 300px;
-    box-shadow:4px -4px 10px 3px #888, inset 4px -4px 10px 3px #888;
+img {
+  width: 100%;
 }
- </style>
-</head>
+/* Selects any <a> element when "hovered" */
+.icons a:hover img {
+  opacity: .5
+}
 
 
 <div class="mobile-js-hide">
@@ -129,11 +122,11 @@ bigimg:
           <br>
 	      
 	  <h3>OSR Sponsors</h3>
-	  <p align="center">
-		  <div class="icons">
+	      <div class="icons">
+		      <p align="center">
 			  <a href="https://www.humanbrainmapping.org/"><img src="img/OSR_sponsors2021.svg" alt="osr" width="80%" style="margin:10px 10px;"></a>
-	      </div>
-          </p>
+	      </p></div>
+          
 	      
 	  <br>    
           <h3>How to get in touch!</h3>
