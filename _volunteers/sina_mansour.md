@@ -1,7 +1,7 @@
 ---
 Name: Sina Mansour L
 Title:
-Pronouns: She/her
+Pronouns: He/Him
 Job: Researcher/PhD candidate
 Affiliation: The University of Melbourne
 ShortBio: Sina is a PhD candidate studying novel whole-brain connectivity mapping approaches.
