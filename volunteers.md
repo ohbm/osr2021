@@ -75,7 +75,7 @@ Have a look at their contact links and bios below, and give them a virtual high-
     {% for col in (0..1) %}
         <td class="people">
 
-        {% assign idx = row | times:3 | plus:col %}
+        {% assign idx = row | times:2 | plus:col %}
         {% assign person = volunteers[idx] %}
         {% if person %}
 
