@@ -22,13 +22,17 @@ description: Open Science Room 2021
 navbar-links:
   Program:
     - Schedule: "schedule"
-    - Speakers: "speakers"
+    # - Speakers: "speakers"
     - Formats: "formats"
     - Submit: "submit"
-    - Review: "review"
+    # - Review: "review"
   Register: "register"
   Accessibility: "access"
-  Volunteers: "volunteers"
+  Volunteering: 
+    - volunteer: "volunteer"
+    - Volunteers: "volunteers"
+  Code of Conduct: "osr_coc"
+  # Sponsors: "sponsors"
   FAQ: "faq"
   
 
@@ -75,7 +79,7 @@ author:
 social-network-links:
 #  rss: true
 
-#  facebook: deanattali
+  facebook: openscience.ohbm
   github: ohbm
   twitter: OhbmOpen
 #  reddit: yourname
